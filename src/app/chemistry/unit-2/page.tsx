@@ -76,6 +76,7 @@ const data = [
           { href: "/chemistry/unit-2/brief-questions", text: "Brief Questions", icon: FileText },
           { href: "/chemistry/unit-2/detailed-questions", text: "Detailed Questions", icon: List },
           { href: "/chemistry/unit-2/content", text: "Content", icon: List },
+          { href: "/chemistry/unit-2/textbook-questions", text: "Textbook Questions", icon: List },
           { href: "/chemistry/unit-2/numerical", text: "Numerical Questions", icon: List },
         ]
     }

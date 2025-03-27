@@ -5,7 +5,7 @@ const OrganicChemistryQuestions = () => {
   return (
     <div className="max-w-4xl mx-auto p-6 bg-white shadow-md rounded-lg">
       <h1 className="text-3xl font-bold text-center mb-8 text-blue-700">Organic Chemistry Questions</h1>
-      
+
       <div className="space-y-6">
         <ol className="list-decimal pl-6 space-y-4">
           <li className="text-gray-800">Define Organic Chemistry?</li>
