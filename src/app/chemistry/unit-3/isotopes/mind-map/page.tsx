@@ -67,7 +67,7 @@ const MagneticMindmap = () => {
       <h1 className="text-2xl font-bold text-blue-600 mb-4">Isotopes</h1>
       
       <h2 className="text-xl font-semibold text-gray-700">Word History</h2>
-      <p className="mb-4">The word "isotope" comes from Greek: "isos" meaning equal and "topos" meaning place. This refers to their position in the periodic table.</p>
+      <p className="mb-4">The word &quot;isotope&quot; comes from Greek: &quot;isos&quot; meaning equal and &quot;topos&quot; meaning place. This refers to their position in the periodic table.</p>
       
       <h2 className="text-xl font-semibold text-gray-700">Discovery</h2>
       <p className="mb-4">In 1913, a scientist named Soddy discovered isotopes. He won the Nobel Prize in Chemistry in 1921 for this discovery.</p>
@@ -108,14 +108,14 @@ const MagneticMindmap = () => {
         </div>
       ))}
     </div>
-    <p>Q21: How does the discovery of isotopes contradicted Dalton's atomic theory? </p>
+    <p>Q21: How does the discovery of isotopes contradicted Dalton&apos;s atomic theory? </p>
       <div className="w-full p-6 bg-white shadow-lg rounded-lg">
-        <h1 className="text-2xl font-bold mb-4 text-blue-600">Dalton's Atomic Theory</h1>
+        <h1 className="text-2xl font-bold mb-4 text-blue-600">Dalton&apos;s Atomic Theory</h1>
         <p className="text-gray-700 text-lg">
-          Dalton's atomic theory said that all atoms of an element are the same in mass and properties.
+          Dalton&apos;s atomic theory said that all atoms of an element are the same in mass and properties.
           But later, scientists found isotopes. Isotopes are atoms of the same element with different masses.
           This happens because they have different numbers of neutrons. For example, carbon-12 and carbon-14 are
-          both carbon atoms but have different masses. This discovery changed Dalton's theory. Now, we know that
+          both carbon atoms but have different masses. This discovery changed Dalton&apos;s theory. Now, we know that
           atoms of the same element can have different masses but still act the same in chemical reactions.
         </p>
     </div>

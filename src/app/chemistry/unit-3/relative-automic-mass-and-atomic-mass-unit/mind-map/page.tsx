@@ -156,7 +156,7 @@ mindmapDiagram {
       <h1 className="text-xl font-bold text-gray-900">Understanding Mass Spectrometry</h1>
       
       <p className="text-gray-700">
-        If you have a solid or liquid sample, heat can turn it into gas. If it's already a gas, you can use it as is. Here, we use neon gas as a sample.
+        If you have a solid or liquid sample, heat can turn it into gas. If it&apos;s already a gas, you can use it as is. Here, we use neon gas as a sample.
       </p>
       
       <p className="text-gray-700">
