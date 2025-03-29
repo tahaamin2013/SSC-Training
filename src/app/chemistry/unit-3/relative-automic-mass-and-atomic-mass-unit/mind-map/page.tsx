@@ -166,6 +166,12 @@ mindmapDiagram {
       <p className="text-gray-700">
         When these charged atoms enter the magnetic field, they bend based on their mass. Lighter atoms bend more than heavier ones. You can see this in the figure. Finally, the ions land on a detector. This detector counts them and measures their masses.
       </p>
+      <Image
+          src="/Mass-Spectrometry-MS.webp"
+          alt="Mass Spectrometry"
+          width={450}
+          height={450}
+        />
     </div>    
       <div className="p-8 bg-gradient-to-r from-blue-100 to-teal-200 rounded-lg shadow-xl">
         <h1 className="text-3xl font-extrabold text-teal-800 mb-6">
