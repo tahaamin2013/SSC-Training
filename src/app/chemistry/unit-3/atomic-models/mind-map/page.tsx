@@ -99,8 +99,8 @@ left side
 @endmindmap`}
         />
 <p>Q2: What do you know about Dalton atomic theory? OR <br />
-Write down the main postulates of Dalton's Atomic Theory. OR <br />
-Why Dalton's atomic theory is considered as a base for modern atomic concepts.</p>
+Write down the main postulates of Dalton&apos;s Atomic Theory. OR <br />
+Why Dalton&apos;s atomic theory is considered as a base for modern atomic concepts.</p>
         <PlantUMLDiagram
           code={`
 @startmindmap
@@ -154,10 +154,10 @@ Why Dalton's atomic theory is considered as a base for modern atomic concepts.</
       <h2 className="text-xl font-semibold mt-4">Chapter 3: Atomic Structure</h2>
       
       <section className="mt-4">
-        <h3 className="text-lg font-semibold text-gray-800">Dalton's Atomic Theory</h3>
+        <h3 className="text-lg font-semibold text-gray-800">Dalton&apos;s Atomic Theory</h3>
         <p className="mt-2 text-gray-700">
           In 1803, John Dalton, a British chemist, introduced a theory about matter. 
-          This theory is called Dalton's Atomic Theory. Here are its key points:
+          This theory is called Dalton&apos;s Atomic Theory. Here are its key points:
         </p>
         <ul className="list-disc list-inside mt-2 text-gray-700">
           <li>All elements consist of tiny, indivisible particles called atoms.</li>
@@ -168,9 +168,9 @@ Why Dalton's atomic theory is considered as a base for modern atomic concepts.</
       </section>
       
       <section className="mt-4">
-        <h3 className="text-lg font-semibold text-gray-800">Limitations of Dalton's Atomic Theory</h3>
+        <h3 className="text-lg font-semibold text-gray-800">Limitations of Dalton&apos;s Atomic Theory</h3>
         <p className="mt-2 text-gray-700">
-          Over time, scientists found that some parts of Dalton's theory were incorrect:
+          Over time, scientists found that some parts of Dalton&apos;s theory were incorrect:
         </p>
         <ul className="list-disc list-inside mt-2 text-gray-700">
           <li>Atoms are not indivisible; they have smaller particles like electrons, protons, and neutrons.</li>
@@ -181,9 +181,9 @@ Why Dalton's atomic theory is considered as a base for modern atomic concepts.</
         </ul>
       </section>
     </div>
- <p className="mt-3 mx-[140px]">Q3: Give an account of the experiment that led Rutherford to conclude that every atom has a positively charged nucleus that occupies a very small volume. What were the drawbacks of Rutherford's nuclear model of the atom? (Cantab Exercise Question)  <br />
+ <p className="mt-3 mx-[140px]">Q3: Give an account of the experiment that led Rutherford to conclude that every atom has a positively charged nucleus that occupies a very small volume. What were the drawbacks of Rutherford&apos;s nuclear model of the atom? (Cantab Exercise Question)  <br />
 OR <br />
-Summarize Rutherford's model of an atom and explain how he developed this model based on the results of his famous gold-foil experiment. <br />
+Summarize Rutherford&apos;s model of an atom and explain how he developed this model based on the results of his famous gold-foil experiment. <br />
 OR <br />
 Discuss Rutherford gold metal foil experiment in the light of structure of atom <br />
 OR <br />
@@ -207,7 +207,7 @@ How Rutherford discovered that atom has a nucleus located at the centre of the a
       </section>
       
       <section className="mt-4">
-        <h3 className="text-lg font-semibold text-gray-800">Rutherford's Atomic Model</h3>
+        <h3 className="text-lg font-semibold text-gray-800">Rutherford&apos;s Atomic Model</h3>
         <p className="mt-2 text-gray-700">
           In 1911, Rutherford conducted an experiment to understand the structure of an atom.
         </p>
@@ -233,7 +233,7 @@ How Rutherford discovered that atom has a nucleus located at the centre of the a
       </section>
       
       <section className="mt-4">
-        <h3 className="text-lg font-semibold text-gray-800">Rutherford's Model of the Atom</h3>
+        <h3 className="text-lg font-semibold text-gray-800">Rutherford&apos;s Model of the Atom</h3>
         <ul className="list-disc list-inside mt-2 text-gray-700">
           <li>The atom has a small, dense nucleus with positive charge.</li>
           <li>Electrons orbit the nucleus in circular paths.</li>
@@ -243,7 +243,7 @@ How Rutherford discovered that atom has a nucleus located at the centre of the a
       </section>
       
       <section className="mt-4">
-        <h3 className="text-lg font-semibold text-gray-800">Limitations of Rutherford's Model</h3>
+        <h3 className="text-lg font-semibold text-gray-800">Limitations of Rutherford&apos;s Model</h3>
         <ul className="list-disc list-inside mt-2 text-gray-700">
           <li>It does not explain how electrons are arranged around the nucleus.</li>
           <li>According to physics, electrons should lose energy and fall into the nucleus, but they don’t.</li>
@@ -451,17 +451,17 @@ left side
 
         <p>
 
-        Q4: State the postulates of Bohr's theory of the hydrogen atom. Write an expression for the nth orbit of a hydrogen atom. Also, write an expression for the radius of any orbit in the atom?  <br />
+        Q4: State the postulates of Bohr&apos;s theory of the hydrogen atom. Write an expression for the nth orbit of a hydrogen atom. Also, write an expression for the radius of any orbit in the atom?  <br />
 OR <br />
-State the postulates which Bohr suggested to overcome the shortcomings of the Rutherford's atomic model. <br />
+State the postulates which Bohr suggested to overcome the shortcomings of the Rutherford&apos;s atomic model. <br />
 OR <br />
-Explain how Bohr's atomic theory differed from Rutherford's atomic theory? <br />
+Explain how Bohr&apos;s atomic theory differed from Rutherford&apos;s atomic theory? <br />
 OR <br />
 How did Bohr proved that an atom must exist? <br />
 OR <br />
 Explain how Bohr helped in understanding the structure of atoms? <br />
 OR <br />
-Explain how Bohr's atomic model is different from Rutherford atomic model? 
+Explain how Bohr&apos;s atomic model is different from Rutherford atomic model? 
 
 
 
@@ -473,7 +473,7 @@ Explain how Bohr's atomic model is different from Rutherford atomic model?
       <section>
         <h2 className="text-xl font-semibold text-gray-800">Background</h2>
         <p className="text-gray-600">
-          Rutherford's model showed that atoms have a nucleus with electrons around it. However, it didn’t explain how electrons are arranged or why they don’t fall into the nucleus.
+          Rutherford&apos;s model showed that atoms have a nucleus with electrons around it. However, it didn’t explain how electrons are arranged or why they don’t fall into the nucleus.
         </p>
       </section>
       
@@ -634,9 +634,9 @@ endlegend
 <p>Q11: What are the limitations of Bohr's atomic model? 
 </p>
 <div className="max-w-3xl mx-auto p-6 bg-white shadow-lg rounded-lg">
-      <h1 className="text-2xl font-bold mb-4 text-blue-600">Limitations of Bohr's Atomic Model</h1>
+      <h1 className="text-2xl font-bold mb-4 text-blue-600">Limitations of Bohr&apos;s Atomic Model</h1>
       <p className="mb-4">
-        Bohr's model helped us understand atoms, but it had flaws. Over time, scientists found cases where it did not match the data. Here are some key issues:
+        Bohr&apos;s model helped us understand atoms, but it had flaws. Over time, scientists found cases where it did not match the data. Here are some key issues:
       </p>
       
       <h2 className="text-lg font-semibold mt-4">1. Only for Hydrogen</h2>
@@ -644,7 +644,7 @@ endlegend
         The model worked well for hydrogen, which has one electron. But it failed for atoms with more electrons.
       </p>
 
-      <h2 className="text-lg font-semibold mt-4">2. Electrons' Pathway</h2>
+      <h2 className="text-lg font-semibold mt-4">2. Electrons&apos;Pathway</h2>
       <p>
         Bohr said electrons move in circles around the nucleus, like planets around the sun. But electrons do not follow fixed paths.
       </p>
@@ -666,25 +666,25 @@ endlegend
 
       <h2 className="text-lg font-semibold mt-4">6. Bohr’s Model Falls Short</h2>
       <p>
-        The model could not explain electrons' unpredictable quantum behavior. Scientists needed a better model.
+        The model could not explain electrons&apos; unpredictable quantum behavior. Scientists needed a better model.
       </p>
       
       <p className="mt-4 font-semibold">In short, Bohr’s model was a great step forward, but it had limits—especially for complex atoms and quantum effects.</p>
     </div>
 
-      <p>Q5: How can Bohr's atomic model be applied to hydrogen atom to calculate the radius and energy of shell? 
+      <p>Q5: How can Bohr&apos;s atomic model be applied to hydrogen atom to calculate the radius and energy of shell? 
       </p>
 
       <div className="p-6 max-w-3xl mx-auto bg-white shadow-lg rounded-2xl">
-      <h1 className="text-2xl font-bold text-blue-600 mb-4">Bohr's Atomic Model Applications</h1>
+      <h1 className="text-2xl font-bold text-blue-600 mb-4">Bohr&apos;s Atomic Model Applications</h1>
       <p className="text-gray-700 mb-4">
-        Bohr's atomic model helps us calculate two important things:
+        Bohr&apos;s atomic model helps us calculate two important things:
       </p>
       <ul className="list-disc list-inside text-gray-700 mb-4">
-        <li>The radius of a hydrogen atom's orbit.</li>
+        <li>The radius of a hydrogen atom&apos;s orbit.</li>
         <li>The energy of an electron in different orbits.</li>
       </ul>
-      <h2 className="text-xl font-semibold text-blue-500 mb-3">Bohr's Energy Calculation</h2>
+      <h2 className="text-xl font-semibold text-blue-500 mb-3">Bohr&apos;s Energy Calculation</h2>
       <p className="text-gray-700 mb-4">
         Bohr used energy quantization to determine the energy of an electron in a hydrogen atom.
         The formula for energy in the nth orbit is:
@@ -702,7 +702,7 @@ endlegend
         <li>n = 4 → -82.08 kJ/mol</li>
         <li>n = 5 → -52.53 kJ/mol</li>
       </ul>
-      <h2 className="text-xl font-semibold text-blue-500 mb-3">Bohr's Radius Calculation</h2>
+      <h2 className="text-xl font-semibold text-blue-500 mb-3">Bohr&apos;s Radius Calculation</h2>
       <p className="text-gray-700 mb-4">
         The radius of an electron’s orbit is calculated using the formula:
       </p>
@@ -884,7 +884,7 @@ endlegend
 
        
        <div className="p-6 max-w-3xl mx-auto bg-white rounded-2xl shadow-md space-y-4">
-      <h1 className="text-2xl font-bold text-center text-blue-600">Heisenberg's Uncertainty Principle</h1>
+      <h1 className="text-2xl font-bold text-center text-blue-600">Heisenberg&apos;s Uncertainty Principle</h1>
       
       <p className="text-gray-700">
         Imagine trying to take a selfie while riding a rollercoaster. The picture is always blurry because the ride is too fast! The same happens with tiny particles like electrons. Their movement is too unpredictable to measure both their position and speed exactly at the same time.
@@ -892,7 +892,7 @@ endlegend
       
       <h2 className="text-xl font-semibold text-blue-500">Statement</h2>
       <p className="text-gray-700">
-        The principle states that it is impossible to know both the exact position and speed of an electron at the same time. This makes it impossible to precisely track an electron's path around the nucleus.
+        The principle states that it is impossible to know both the exact position and speed of an electron at the same time. This makes it impossible to precisely track an electron&apos;s path around the nucleus.
       </p>
       
       <h2 className="text-xl font-semibold text-blue-500">Mathematical Expression</h2>
@@ -907,7 +907,7 @@ endlegend
       
       <h2 className="text-xl font-semibold text-blue-500">What It Means</h2>
       <p className="text-gray-700">
-        The more accurately you measure an electron's position, the less accurately you can measure its speed and direction.
+        The more accurately you measure an electron&apos;s position, the less accurately you can measure its speed and direction.
       </p>
       
       <h2 className="text-xl font-semibold text-blue-500">Example</h2>
@@ -997,7 +997,7 @@ mindmapDiagram {
       </ul>
       <h2 className="text-xl font-semibold mt-4">Key Principles</h2>
       <ul className="list-disc list-inside space-y-2">
-        <li><strong>Pauli's Exclusion Principle:</strong> No two electrons can have the same four quantum numbers.</li>
+        <li><strong>Pauli&apos;s Exclusion Principle:</strong> No two electrons can have the same four quantum numbers.</li>
         <li><strong>Aufbau Principle:</strong> Electrons fill orbitals from lower to higher energy levels.</li>
       </ul>
       <p className="mt-4">
