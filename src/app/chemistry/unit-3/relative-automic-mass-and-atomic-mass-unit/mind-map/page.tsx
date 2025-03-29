@@ -147,7 +147,26 @@ mindmapDiagram {
         </tbody>
       </table>
     </div>
-    
+
+    <p className="mt-4 text-lg">
+    How can we determine the number of isotopes of a specific element, their masses, and also most abundant isotopes for a specific element? 
+
+    </p>
+    <div className="p-6 max-w-2xl mx-auto bg-white rounded-xl shadow-md space-y-4">
+      <h1 className="text-xl font-bold text-gray-900">Understanding Mass Spectrometry</h1>
+      
+      <p className="text-gray-700">
+        If you have a solid or liquid sample, heat can turn it into gas. If it's already a gas, you can use it as is. Here, we use neon gas as a sample.
+      </p>
+      
+      <p className="text-gray-700">
+        Electrons move quickly from a tungsten coil to an electron trapper. As they move, they hit neon gas atoms and give them a positive charge. The positive atoms move away from the positive plate and rush toward the negative plate. This makes them move fast into the magnetic field. This step is key in a mass spectrometer.
+      </p>
+      
+      <p className="text-gray-700">
+        When these charged atoms enter the magnetic field, they bend based on their mass. Lighter atoms bend more than heavier ones. You can see this in the figure. Finally, the ions land on a detector. This detector counts them and measures their masses.
+      </p>
+    </div>    
       <div className="p-8 bg-gradient-to-r from-blue-100 to-teal-200 rounded-lg shadow-xl">
         <h1 className="text-3xl font-extrabold text-teal-800 mb-6">
           3.4 Relative Atomic Mass and Atomic Mass Unit

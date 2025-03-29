@@ -77,6 +77,8 @@ left side
 `}
                 />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UYFkGGkDzpw?si=FyumDIio44jNbWYf" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+
             </section>
             <div className="p-8 bg-gradient-to-r from-green-100 to-yellow-200 rounded-lg shadow-xl">
                 <h1 className="text-3xl font-extrabold text-yellow-800 mb-6">3.7 Electronic Configuration</h1>

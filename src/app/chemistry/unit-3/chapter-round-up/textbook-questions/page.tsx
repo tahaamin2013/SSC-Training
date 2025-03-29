@@ -130,16 +130,16 @@ h. 2
         Q19: Discuss the &apos;concept of relative atomic mass and atomic mass
         unit. Also discuss relative atomic masses of some elements.
       </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q20: Define isotopes. Discuss isotopes of Hydrogen, Carbon, Chlorine,
         and Uranium?
       </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q21: How does the discovery of isotopes contradicted Dalton&apos;s
         atomic theory?
       </p>
       <p className="mb-5">
-        Q22: Give comparison of ordinary water and heavy water.
+     <p className="text-blue-600">   Q22: Give comparison of ordinary water and heavy water.</p>
         <br />
         Carbon has three isotopes C, C, C Figure 3.3 shows incomplete structure
         of isotopes of carbon.
@@ -150,7 +150,8 @@ h. 2
         Chlorine has two isotopes. Figure 3.4 shows the structure of isotopes of
         chlorine. Can you write isotope symbol for each?
         <br />
-        Uranium has three isotopes with mass number 234, 235 and 238
+      <p className="text-blue-600">
+      Uranium has three isotopes with mass number 234, 235 and 238
         respectively. U. 12 ^ 29 U 1 12 ^ 290 U The U isotope is used in nuclear
         reactors and atomic bombs, whereas the 92 ^ 238 U isotope lacks the
         properties necessary for these applications. U is rare. Natural
@@ -159,17 +160,28 @@ h. 2
         215U has 92 protons, protons, electrons and electrons and neutrons
         neutrons
       </p>
+
+      </p>
       <p className="mb-5">
-        Q23: Calculate the relative atomic mass of carbon.
-        <br />
+<p className="text-blue-600">
+Q23: Calculate the relative atomic mass of carbon. 
+The relative atomic mass of an element can be calculated from the relative masses of its isotopes and their relative abundance. 
+Natural abundance of isotopes of carbon is as follows: 
+6 ^ 12 C = 98.8% 
+6 ^ 13 C = 1.1% 
+6 ^ 14 C = 0.009% 
+Calculate relative atomic mass of carbon. 
+
+</p>       
+ <br />
         The relative atomic mass of element is 35.5 amu. Relative abundance of
         isotope A is 75.77% and its isotopic mass is 35. Find the isotopic mass
         of B if its relative abundance is 24.23%.
       </p>
 
-      <p className="mb-5">Q24: Explain different uses of isotopes. </p>
+      <p className="mb-5 text-blue-600">Q24: Explain different uses of isotopes. </p>
 
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q25: Why do the chemical properties of isotopes of same element remains
         the same? <br />
         (1) Zinc consists of five naturally occurring isotopes: Zn, Zn, Zn, and

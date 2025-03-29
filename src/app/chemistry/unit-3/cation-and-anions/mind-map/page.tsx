@@ -173,6 +173,8 @@ mindmapDiagram {
 `}
         />
 
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/HZL1i_2qGZU?si=yp9UQ-WcpUDgoB8X" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+
       </section>
       <div className="p-8 bg-gradient-to-r from-blue-100 to-purple-200 rounded-lg shadow-xl">
     <h1 className="text-3xl font-extrabold text-purple-800 mb-6">3.6 Cations and Anions</h1>
@@ -248,6 +250,8 @@ mindmapDiagram {
             </ul>
         </div>
     </div>
+
+
 </div>
 
     </div>
