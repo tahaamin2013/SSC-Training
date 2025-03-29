@@ -303,7 +303,6 @@ Atomic Number of an element is 17 and mass number is 35. How many protons and ne
     <p>(iii) What is the difference between the mass number and the atomic mass of an element? </p>
     <div className="max-w-2xl mx-auto p-6 bg-white shadow-lg rounded-lg">
       <h1 className="text-2xl font-bold text-center mb-4">Mass Number vs. Atomic Mass</h1>
-      
       <div className="mb-4">
         <h2 className="text-xl font-semibold">Mass Number</h2>
         <ul className="list-disc list-inside space-y-1">
