@@ -98,7 +98,9 @@ left side
 *** Suspension: Heterogeneous mixture of undissolved particles in liquid
 @endmindmap`}
         />
-
+<p>Q2: What do you know about Dalton atomic theory? OR <br />
+Write down the main postulates of Dalton's Atomic Theory. OR <br />
+Why Dalton's atomic theory is considered as a base for modern atomic concepts.</p>
         <PlantUMLDiagram
           code={`
 @startmindmap
@@ -145,6 +147,110 @@ left side
 @endmindmap
 `}
         />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NfRpUGNjM8U?si=ET6QCw__x1avQ8G1" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+         <div className="max-w-3xl mx-auto p-6 bg-white shadow-lg rounded-2xl">
+      <h1 className="text-2xl font-bold text-center text-blue-600">FOCUS Chemistry IX</h1>
+      <h2 className="text-xl font-semibold mt-4">Chapter 3: Atomic Structure</h2>
+      
+      <section className="mt-4">
+        <h3 className="text-lg font-semibold text-gray-800">Dalton's Atomic Theory</h3>
+        <p className="mt-2 text-gray-700">
+          In 1803, John Dalton, a British chemist, introduced a theory about matter. 
+          This theory is called Dalton's Atomic Theory. Here are its key points:
+        </p>
+        <ul className="list-disc list-inside mt-2 text-gray-700">
+          <li>All elements consist of tiny, indivisible particles called atoms.</li>
+          <li>Atoms of the same element are identical in mass and size.</li>
+          <li>Atoms rearrange, combine, or separate in chemical reactions.</li>
+          <li>Atoms cannot be created or destroyed.</li>
+        </ul>
+      </section>
+      
+      <section className="mt-4">
+        <h3 className="text-lg font-semibold text-gray-800">Limitations of Dalton's Atomic Theory</h3>
+        <p className="mt-2 text-gray-700">
+          Over time, scientists found that some parts of Dalton's theory were incorrect:
+        </p>
+        <ul className="list-disc list-inside mt-2 text-gray-700">
+          <li>Atoms are not indivisible; they have smaller particles like electrons, protons, and neutrons.</li>
+          <li>Atoms of the same element can have different masses (isotopes). For example, chlorine has atoms with masses of 35u and 37u.</li>
+          <li>Atoms of different elements can have the same mass (isobars). For example, potassium and calcium both have an atomic mass of 40.</li>
+          <li>Substances made of the same element can have different properties. For example, diamond and graphite are both made of carbon but look and behave differently.</li>
+          <li>Atoms combine in fixed ratios to form compounds, but the ratio is not always simple. For example, sugar (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>) has a fixed but complex atomic ratio.</li>
+        </ul>
+      </section>
+    </div>
+ <p className="mt-3 mx-[140px]">Q3: Give an account of the experiment that led Rutherford to conclude that every atom has a positively charged nucleus that occupies a very small volume. What were the drawbacks of Rutherford's nuclear model of the atom? (Cantab Exercise Question)  <br />
+OR <br />
+Summarize Rutherford's model of an atom and explain how he developed this model based on the results of his famous gold-foil experiment. <br />
+OR <br />
+Discuss Rutherford gold metal foil experiment in the light of structure of atom <br />
+OR <br />
+Can you describe the experiment and result deduced by Rutherford for explaining atomic structure? <br />
+OR <br />
+Describe the contribution that Rutherford made to the development of the atomic theory. <br />
+OR <br />
+How Rutherford discovered that atom has a nucleus located at the centre of the atom?
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YDlCSPQ2uOQ?si=sGWMTdk23NloDAlO" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+<div className="max-w-3xl mx-auto p-6 bg-white shadow-lg rounded-2xl">
+      <h1 className="text-2xl font-bold text-center text-blue-600">FOCUS Chemistry IX</h1>
+      <h2 className="text-xl font-semibold mt-4">Chapter 3: Atomic Structure</h2>
+      
+      <section className="mt-4">
+        <h3 className="text-lg font-semibold text-gray-800">The Discovery of the Electron</h3>
+        <p className="mt-2 text-gray-700">
+          In the late 1800s, scientists believed atoms were unbreakable. But further research revealed that atoms consist of even smaller parts: electrons, protons, and neutrons.
+        </p>
+      </section>
+      
+      <section className="mt-4">
+        <h3 className="text-lg font-semibold text-gray-800">Rutherford's Atomic Model</h3>
+        <p className="mt-2 text-gray-700">
+          In 1911, Rutherford conducted an experiment to understand the structure of an atom.
+        </p>
+        
+        <h4 className="text-md font-semibold mt-2">Experiment:</h4>
+        <p className="mt-2 text-gray-700">
+          He directed high-energy alpha particles at a thin gold foil. A fluorescent screen detected where the particles landed.
+        </p>
+        
+        <h4 className="text-md font-semibold mt-2">Observations:</h4>
+        <ul className="list-disc list-inside mt-2 text-gray-700">
+          <li>Most particles passed through without any deflection.</li>
+          <li>Some particles deflected at small angles.</li>
+          <li>Very few particles bounced back at 180°.</li>
+        </ul>
+        
+        <h4 className="text-md font-semibold mt-2">Conclusions:</h4>
+        <ul className="list-disc list-inside mt-2 text-gray-700">
+          <li>Most of the atom is empty space.</li>
+          <li>A small, dense, positively charged center (nucleus) exists.</li>
+          <li>The nucleus is heavy and tiny compared to the atom.</li>
+        </ul>
+      </section>
+      
+      <section className="mt-4">
+        <h3 className="text-lg font-semibold text-gray-800">Rutherford's Model of the Atom</h3>
+        <ul className="list-disc list-inside mt-2 text-gray-700">
+          <li>The atom has a small, dense nucleus with positive charge.</li>
+          <li>Electrons orbit the nucleus in circular paths.</li>
+          <li>The nucleus holds most of the atom’s mass.</li>
+          <li>Number of electrons equals the number of protons.</li>
+        </ul>
+      </section>
+      
+      <section className="mt-4">
+        <h3 className="text-lg font-semibold text-gray-800">Limitations of Rutherford's Model</h3>
+        <ul className="list-disc list-inside mt-2 text-gray-700">
+          <li>It does not explain how electrons are arranged around the nucleus.</li>
+          <li>According to physics, electrons should lose energy and fall into the nucleus, but they don’t.</li>
+          <li>It fails to explain why atoms emit line spectra instead of continuous spectra.</li>
+        </ul>
+      </section>
+    </div>
         <PlantUMLDiagram
           code={`
 @startmindmap
@@ -342,6 +448,82 @@ left side
             src="/rutherford-atomic-model.png"
           />
         </div>
+
+        <p>
+
+        Q4: State the postulates of Bohr's theory of the hydrogen atom. Write an expression for the nth orbit of a hydrogen atom. Also, write an expression for the radius of any orbit in the atom?  <br />
+OR <br />
+State the postulates which Bohr suggested to overcome the shortcomings of the Rutherford's atomic model. <br />
+OR <br />
+Explain how Bohr's atomic theory differed from Rutherford's atomic theory? <br />
+OR <br />
+How did Bohr proved that an atom must exist? <br />
+OR <br />
+Explain how Bohr helped in understanding the structure of atoms? <br />
+OR <br />
+Explain how Bohr's atomic model is different from Rutherford atomic model? 
+
+
+
+        </p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/W10NWbd5gFk?si=jcWCGCsmSQiFAh6g" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+            <div className="max-w-3xl mx-auto p-6 bg-white shadow-lg rounded-2xl">
+      <h1 className="text-2xl font-bold text-center text-blue-600">FOCUS Chemistry IX</h1>
+      <h2 className="text-xl font-semibold mt-4">Chapter 3: Atomic Structure</h2>
+      <section>
+        <h2 className="text-xl font-semibold text-gray-800">Background</h2>
+        <p className="text-gray-600">
+          Rutherford's model showed that atoms have a nucleus with electrons around it. However, it didn’t explain how electrons are arranged or why they don’t fall into the nucleus.
+        </p>
+      </section>
+      
+      <section>
+        <h2 className="text-xl font-semibold text-gray-800">History</h2>
+        <p className="text-gray-600">
+          In 1913, Niels Bohr introduced a new atomic model. This model explained electron arrangement and the hydrogen emission spectrum.
+        </p>
+      </section>
+      
+      <section>
+        <h2 className="text-xl font-semibold text-gray-800">Bohr’s Postulates</h2>
+        <ul className="list-disc list-inside text-gray-600">
+          <li>Atoms have a tiny nucleus with electrons moving in fixed circular orbits.</li>
+          <li>Each orbit has a set energy level.</li>
+          <li>Electrons do not lose or gain energy while in an orbit.</li>
+          <li>Electrons absorb energy when moving to a higher orbit and release energy when moving to a lower one.</li>
+          <li>Energy change is given by the equation: <span className="font-mono">ΔE = E₂ - E₁ = hv</span>, where <span className="font-mono">h</span> is Planck’s constant (6.63 × 10⁻³⁴ Js) and <span className="font-mono">v</span> is the frequency of light.</li>
+          <li>Electrons revolve in orbits with fixed angular momentum: <span className="font-mono">mvr = n(h/2π)</span>, where <span className="font-mono">n</span> is the orbit number.</li>
+        </ul>
+      </section>
+      <h1 className="text-2xl font-bold text-blue-600 mb-4">Second Answer</h1>
+        
+        <p className="mb-4">
+          In 1913, Niels Bohr introduced a new atomic model to fix problems in Rutherford’s theory. His model is based on these key ideas:
+        </p>
+        
+        <ul className="list-disc list-inside space-y-2">
+          <li>Electrons move in fixed circular paths called shells or energy levels.</li>
+          <li>Each orbit has a fixed energy. The farther the electron, the higher its energy.</li>
+          <li>As long as an electron stays in its orbit, its energy remains constant.</li>
+          <li>When an electron jumps between orbits, it absorbs or releases energy.</li>
+          <li>Electrons can only exist in specific orbits, not in between them.</li>
+          <li>Angular momentum follows the rule: <code>mvr = nh / (2π)</code>.</li>
+        </ul>
+        
+        <h2 className="text-xl font-semibold text-gray-700 mt-4">Energy Levels</h2>
+        <p className="mb-4">
+          Bohr’s model defines different shells: K, L, M, N, O, P, Q. Electrons in the K-shell (n = 1) have the lowest energy and are closest to the nucleus. The next shell is L (n = 2), and so on.
+        </p>
+        
+        <div className="mt-6 p-4 bg-gray-200 rounded-lg">
+          <h3 className="text-lg font-semibold">Formula for Energy Difference</h3>
+          <p className="text-sm mt-2">
+            ΔE = E₂ - E₁ = hv <br />
+            (where h = Planck’s constant, v = frequency)
+          </p>
+        </div>
+=
+    </div>
         <PlantUMLDiagram
           code={`
 @startmindmap
@@ -449,6 +631,117 @@ endlegend
           height={700}
         />
       </section>
+<p>Q11: What are the limitations of Bohr's atomic model? 
+</p>
+<div className="max-w-3xl mx-auto p-6 bg-white shadow-lg rounded-lg">
+      <h1 className="text-2xl font-bold mb-4 text-blue-600">Limitations of Bohr's Atomic Model</h1>
+      <p className="mb-4">
+        Bohr's model helped us understand atoms, but it had flaws. Over time, scientists found cases where it did not match the data. Here are some key issues:
+      </p>
+      
+      <h2 className="text-lg font-semibold mt-4">1. Only for Hydrogen</h2>
+      <p>
+        The model worked well for hydrogen, which has one electron. But it failed for atoms with more electrons.
+      </p>
+
+      <h2 className="text-lg font-semibold mt-4">2. Electrons' Pathway</h2>
+      <p>
+        Bohr said electrons move in circles around the nucleus, like planets around the sun. But electrons do not follow fixed paths.
+      </p>
+
+      <h2 className="text-lg font-semibold mt-4">3. Quantum Nature of Electrons</h2>
+      <p>
+        Electrons belong to the quantum world, where rules are different. We cannot know their exact position and movement at the same time.
+      </p>
+
+      <h2 className="text-lg font-semibold mt-4">4. Probabilistic Movement</h2>
+      <p>
+        Electrons move like fast, unpredictable flies. Unlike cars on roads, they do not stay in fixed lanes but prefer certain areas.
+      </p>
+
+      <h2 className="text-lg font-semibold mt-4">5. Quantum Uncertainty</h2>
+      <p>
+        The Uncertainty Principle states we cannot know both an electron’s position and speed exactly—like spotting a race car and guessing its speed in a blink.
+      </p>
+
+      <h2 className="text-lg font-semibold mt-4">6. Bohr’s Model Falls Short</h2>
+      <p>
+        The model could not explain electrons' unpredictable quantum behavior. Scientists needed a better model.
+      </p>
+      
+      <p className="mt-4 font-semibold">In short, Bohr’s model was a great step forward, but it had limits—especially for complex atoms and quantum effects.</p>
+    </div>
+
+      <p>Q5: How can Bohr's atomic model be applied to hydrogen atom to calculate the radius and energy of shell? 
+      </p>
+
+      <div className="p-6 max-w-3xl mx-auto bg-white shadow-lg rounded-2xl">
+      <h1 className="text-2xl font-bold text-blue-600 mb-4">Bohr's Atomic Model Applications</h1>
+      <p className="text-gray-700 mb-4">
+        Bohr's atomic model helps us calculate two important things:
+      </p>
+      <ul className="list-disc list-inside text-gray-700 mb-4">
+        <li>The radius of a hydrogen atom's orbit.</li>
+        <li>The energy of an electron in different orbits.</li>
+      </ul>
+      <h2 className="text-xl font-semibold text-blue-500 mb-3">Bohr's Energy Calculation</h2>
+      <p className="text-gray-700 mb-4">
+        Bohr used energy quantization to determine the energy of an electron in a hydrogen atom.
+        The formula for energy in the nth orbit is:
+      </p>
+      <pre className="bg-gray-100 p-4 rounded-md text-sm font-mono">
+        E_n = - 1313.315 / (n²) kJ/mol
+      </pre>
+      <p className="text-gray-700 mt-4">
+        Here are the energy values for different orbits:
+      </p>
+      <ul className="list-disc list-inside text-gray-700 mb-4">
+        <li>n = 1 → -1313.31 kJ/mol</li>
+        <li>n = 2 → -328.32 kJ/mol</li>
+        <li>n = 3 → -145.92 kJ/mol</li>
+        <li>n = 4 → -82.08 kJ/mol</li>
+        <li>n = 5 → -52.53 kJ/mol</li>
+      </ul>
+      <h2 className="text-xl font-semibold text-blue-500 mb-3">Bohr's Radius Calculation</h2>
+      <p className="text-gray-700 mb-4">
+        The radius of an electron’s orbit is calculated using the formula:
+      </p>
+      <pre className="bg-gray-100 p-4 rounded-md text-sm font-mono">
+        r = 0.529 × (n²) Å
+      </pre>
+      <p className="text-gray-700 mt-4">For different orbits:</p>
+      <ul className="list-disc list-inside text-gray-700 mb-4">
+        <li>n = 1 → 0.529 Å</li>
+        <li>n = 2 → 2.11 Å</li>
+        <li>n = 3 → 4.75 Å</li>
+        <li>n = 4 → 8.4 Å</li>
+        <li>n = 5 → 13.23 Å</li>
+      </ul>
+      <p className="text-gray-700">
+        As we move to higher orbits, both energy and radius increase.
+      </p>
+    </div>
+
+    <p>Q6: How staircase is the example of orbits or energy levels 
+    </p>
+    <div className="p-6 max-w-2xl mx-auto bg-white rounded-2xl shadow-lg">
+      <h1 className="text-2xl font-bold text-center mb-4">Understanding Electron Shells</h1>
+      <p className="text-lg mb-2">
+        Imagine climbing a staircase. At the bottom, the steps are tall and hard to climb. These steps
+        represent the inner electron shells close to the nucleus. The large step size shows the big energy
+        difference between these shells.
+      </p>
+      <p className="text-lg mb-2">
+        As you move up, the steps get shorter, making them easier to climb. This represents the smaller
+        energy gaps between the outer shells of an atom. However, while these steps are shorter, they are
+        also farther apart, showing that the outer shells are spread out more than the inner ones.
+      </p>
+      <p className="text-lg font-semibold text-center mt-4">Summary:</p>
+      <ul className="list-disc list-inside text-lg">
+        <li>Inner shells: Large energy gaps, small distances.</li>
+        <li>Outer shells: Small energy gaps, larger distances.</li>
+      </ul>
+    </div>
 
       <div className="p-8 bg-gradient-to-r from-teal-100 to-blue-100 rounded-lg shadow-xl">
         <h1 className="text-3xl font-extrabold text-blue-800 mb-6">
@@ -587,6 +880,47 @@ endlegend
         </div>
       </div>
 
+       <p>Q8: State Heisenberg Uncertainty principle.</p>
+
+       
+       <div className="p-6 max-w-3xl mx-auto bg-white rounded-2xl shadow-md space-y-4">
+      <h1 className="text-2xl font-bold text-center text-blue-600">Heisenberg's Uncertainty Principle</h1>
+      
+      <p className="text-gray-700">
+        Imagine trying to take a selfie while riding a rollercoaster. The picture is always blurry because the ride is too fast! The same happens with tiny particles like electrons. Their movement is too unpredictable to measure both their position and speed exactly at the same time.
+      </p>
+      
+      <h2 className="text-xl font-semibold text-blue-500">Statement</h2>
+      <p className="text-gray-700">
+        The principle states that it is impossible to know both the exact position and speed of an electron at the same time. This makes it impossible to precisely track an electron's path around the nucleus.
+      </p>
+      
+      <h2 className="text-xl font-semibold text-blue-500">Mathematical Expression</h2>
+      <p className="text-gray-700">
+        <span className="font-mono">Δx × Δp ≥ h / (4π)</span>
+      </p>
+      <ul className="list-disc list-inside text-gray-700">
+        <li><b>Δx:</b> Uncertainty in position (how precisely you know where the particle is).</li>
+        <li><b>Δp:</b> Uncertainty in momentum (how fast and in which direction it moves).</li>
+        <li><b>h:</b> Planck’s constant (a tiny value: 6.626 × 10⁻³⁴ Js).</li>
+      </ul>
+      
+      <h2 className="text-xl font-semibold text-blue-500">What It Means</h2>
+      <p className="text-gray-700">
+        The more accurately you measure an electron's position, the less accurately you can measure its speed and direction.
+      </p>
+      
+      <h2 className="text-xl font-semibold text-blue-500">Example</h2>
+      <p className="text-gray-700">
+        Imagine using a super-powerful microscope to see an electron. You need to shine a strong light beam on it. But this light pushes the electron, changing its speed! So, the more precisely you measure its position, the more you disturb its speed.
+      </p>
+      
+      <h2 className="text-xl font-semibold text-blue-500">In Simple Words</h2>
+      <p className="text-gray-700">
+        The Heisenberg Uncertainty Principle means you can’t measure both the position and speed of tiny particles at the same time. The more you try to measure one, the less you know about the other!
+      </p>
+    </div>
+
       <PlantUMLDiagram
         code={`
 @startmindmap
@@ -647,6 +981,29 @@ mindmapDiagram {
 
 `}
       />
+
+<p>Q7: How Quantum Mechanical Model explains the structure of an atom? </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1lLWqz18Jcc?si=N3NmJKK3GFK981jK" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+<div className="max-w-2xl mx-auto p-6 bg-white shadow-lg rounded-2xl">
+      <h1 className="text-2xl font-bold text-center mb-4">Quantum Mechanical Model</h1>
+      <p className="mb-2">
+        The <strong>Quantum Mechanical Model</strong> explains the structure of an atom in this way:
+      </p>
+      <ul className="list-disc list-inside space-y-2">
+        <li>Electrons move in cloud-like areas (orbitals) instead of fixed paths.</li>
+        <li>Energy levels are set, meaning electrons can only have specific amounts of energy.</li>
+        <li>Electrons act like both waves and particles.</li>
+        <li>Electrons have natural properties like spin and magnetism.</li>
+      </ul>
+      <h2 className="text-xl font-semibold mt-4">Key Principles</h2>
+      <ul className="list-disc list-inside space-y-2">
+        <li><strong>Pauli's Exclusion Principle:</strong> No two electrons can have the same four quantum numbers.</li>
+        <li><strong>Aufbau Principle:</strong> Electrons fill orbitals from lower to higher energy levels.</li>
+      </ul>
+      <p className="mt-4">
+        This model helps us understand atoms better, predicting their energy, light emission, and chemical reactions.
+      </p>
+    </div>
       <PlantUMLDiagram
         code={`
 @startmindmap
@@ -691,7 +1048,33 @@ mindmapDiagram {
         height={300}
       />
 
-      <PlantUMLDiagram
+      <p>Q9: Explore the concept of modern Quantum mechanics including the contribution of Louis de Broglie and Davission and Germer? 
+      </p>
+      <div className="p-6 max-w-2xl mx-auto bg-white rounded-xl shadow-md space-y-4">
+      <h1 className="text-xl font-bold text-center">Quantum Mechanics Made Simple</h1>
+      <p className="text-gray-700">
+        Quantum mechanics is a science that explains how tiny particles behave. These particles, like electrons, can act like waves too!
+      </p>
+      <h2 className="text-lg font-semibold">Key Contributors</h2>
+      <div className="space-y-3">
+        <div>
+          <h3 className="font-medium">1. Louis de Broglie</h3>
+          <p className="text-gray-600">
+            He discovered that tiny particles, like electrons, also behave like waves. This idea is called wave-particle duality.
+          </p>
+          <p className="text-gray-600">
+            His formula, λ = h/p, shows that the wavelength (λ) depends on Planck’s constant (h) and the particle’s momentum (p).
+          </p>
+        </div>
+        <div>
+          <h3 className="font-medium">2. Davisson and Germer</h3>
+          <p className="text-gray-600">
+            In 1927, they ran an experiment and proved de Broglie was right! They shot electrons at a nickel crystal and saw a pattern—just like waves make!
+          </p>
+        </div>
+      </div>
+    </div>
+    <PlantUMLDiagram
         code={`
   @startmindmap
 <style>
@@ -727,6 +1110,33 @@ mindmapDiagram {
 @endmindmap
 `}
       />
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/mjGIbxP-KzQ?si=-iWiioBkIVBZ8xER" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" ></iframe>
+    <p>Q1: What do you know about atoms? </p>
+    <div className="max-w-2xl mx-auto p-6 bg-white shadow-lg rounded-xl">
+      <h1 className="text-2xl font-bold text-blue-600 mb-4">Introduction to Atoms</h1>
+      <p className="text-gray-700 mb-4">
+        Atoms are tiny building blocks that make up everything around us. From gold and carbon to the oxygen we breathe, all materials are made of atoms. Even though they are everywhere, atoms are extremely small. To understand their size, imagine a sheet of paper—it is as thick as a stack of one million atoms!
+      </p>
+      <h2 className="text-xl font-semibold text-blue-500 mb-2">Parts of an Atom:</h2>
+      <ul className="list-disc list-inside text-gray-700 mb-4">
+        <li><strong>Proton</strong></li>
+        <li><strong>Neutron</strong></li>
+        <li><strong>Electron</strong></li>
+        <li><strong>Electron Shell</strong></li>
+      </ul>
+      <p className="text-gray-700 mb-4">
+        <strong>Figure:</strong> This shows protons, neutrons, and electrons inside an atom.
+      </p>
+      <h2 className="text-xl font-semibold text-blue-500 mb-2">Word Meaning:</h2>
+      <ul className="list-disc list-inside text-gray-700">
+        <li><strong>Omni:</strong> Means "all" or "every."</li>
+        <li><strong>Presence:</strong> Means "being there."</li>
+        <li><strong>Omnipresence:</strong> Means "being everywhere at the same time."</li>
+      </ul>
+    </div>
+  
+
+
 
       <PlantUMLDiagram code={`
         @startmindmap
@@ -761,6 +1171,39 @@ mindmapDiagram {
 *** Electron mass is negligible in comparison
 @endmindmap
 `} />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYxm2q9eKNI?si=_GK9AfXmxgXbE1XC" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" ></iframe>
+
+<p>Q10: Explore the concept of nuclear force including binding of proton, neutron and nucleus? 
+</p>
+<div className="max-w-2xl mx-auto p-6 bg-white shadow-lg rounded-xl">
+      <h1 className="text-2xl font-bold mb-4 text-blue-600">Nuclear Force</h1>
+      <p className="text-lg text-gray-700">
+        The nuclear force is a powerful force that holds the tiny parts of an atom together.
+        It keeps protons and neutrons inside the nucleus, even though protons repel each other.
+      </p>
+      <h2 className="text-xl font-semibold mt-4 text-blue-500">Why is it Important?</h2>
+      <ul className="list-disc pl-6 text-gray-700 text-lg">
+        <li>It binds protons and neutrons together.</li>
+        <li>It prevents the nucleus from breaking apart.</li>
+        <li>It helps form different types of atoms.</li>
+      </ul>
+      <p className="text-lg text-gray-700 mt-4">
+        This force works only at very short distances and is carried by particles called gluons.
+      </p>
+      <div className="bg-white shadow-lg rounded-2xl p-6 max-w-lg text-gray-800">
+        <h1 className="text-2xl font-bold text-blue-600 mb-4">Second Answer</h1>
+        <p className="text-lg leading-relaxed">
+          Nuclear force is the strong force that holds protons and neutrons together in the nucleus of an atom.
+          Even though protons repel each other because they have the same charge, the nuclear force is much stronger
+          at very short distances (about 1 femtometer).
+        </p>
+        <p className="text-lg leading-relaxed mt-2">
+          This force pulls all nucleons (protons and neutrons) together, keeping the nucleus stable. It overcomes
+          the repulsion between protons and ensures atoms do not fall apart.
+        </p>
+      </div>
+    </div>
 
 <PlantUMLDiagram code={`
 @startmindmap
@@ -809,6 +1252,8 @@ left side
 
 @endmindmap
 `} />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BIV_x3NGluo?si=RPGsyJClTHX1DgC1" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" ></iframe>
     </div>
   );
 };

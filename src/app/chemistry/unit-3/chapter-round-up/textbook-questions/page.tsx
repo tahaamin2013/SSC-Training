@@ -4,15 +4,15 @@ const page = () => {
   return (
     <div className="p-6">
       <h1 className="text-3xl font-bold">Text Book Questions</h1>
-      <p className="mb-5">Q1: What do you know about atoms? </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">Q1: What do you know about atoms? </p>
+      <p className="mb-5 text-blue-600">
         Q2: What do you know about Dalton atomic theory? OR <br />
         Write down the main postulates of Dalton&apos;s Atomic Theory. OR <br />
         Why Dalton&apos;s atomic theory is considered as a base for modern
         atomic concepts.
       </p>
 
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q3: Give an account of the experiment that led Rutherford to conclude
         that every atom has a positively charged nucleus that occupies a very
         small volume. What were the drawbacks of Rutherford&apos;s nuclear model
@@ -29,7 +29,7 @@ const page = () => {
         How Rutherford discovered that atom has a nucleus located at the centre
         of the atom?
       </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q4: State the postulates of Bohr&apos;s theory of the hydrogen atom.
         Write an expression for the nth orbit of a hydrogen atom. Also, write an
         expression for the radius of any orbit in the atom? Cantab Exercise
@@ -44,26 +44,26 @@ const page = () => {
         Explain how Bohr&apos;s atomic model is different from Rutherford atomic
         model?
       </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q5: How can Bohr&apos;s atomic model be applied to hydrogen atom to
         calculate the radius and energy of shell?
       </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q6: How staircase is the example of orbits or energy levels
       </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q7: How Quantum Mechanical Model explains the structure of an atom?
       </p>
-      <p className="mb-5">Q8: State Heisenberg Uncertainty principle.</p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">Q8: State Heisenberg Uncertainty principle.</p>
+      <p className="mb-5 text-blue-600">
         Q9: Explore the concept of modern Quantum mechanics including the
         contribution of Louis de Broglie and Davission and Germer?
       </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q10: Explore the concept of nuclear force including binding of proton,
         neutron and nucleus?
       </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q11: What are the limitations of Bohr&apos;s atomic model?
       </p>
       <p className="mb-5">
