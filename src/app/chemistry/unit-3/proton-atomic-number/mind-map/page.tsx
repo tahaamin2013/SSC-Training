@@ -205,7 +205,7 @@ left side
         Every element has its own special proton number. This number makes it different from all other elements. It also decides where the element goes in the periodic table.
       </p>
       <p className="text-gray-700 text-lg mb-4">
-        The periodic table arranges elements by their proton numbers. So, the number of protons helps us find an element's place in the table. Each element is defined by its proton count.
+        The periodic table arranges elements by their proton numbers. So, the number of protons helps us find an element&apos;s place in the table. Each element is defined by its proton count.
       </p>
       <h2 className="text-xl font-semibold text-blue-500 mb-3">Examples:</h2>
       <ul className="list-disc list-inside text-gray-700 text-lg">
@@ -307,9 +307,9 @@ Atomic Number of an element is 17 and mass number is 35. How many protons and ne
       <div className="mb-4">
         <h2 className="text-xl font-semibold">Mass Number</h2>
         <ul className="list-disc list-inside space-y-1">
-          <li>The mass number is the total weight of an atom's nucleus.</li>
+          <li>The mass number is the total weight of an atom&apos;s nucleus.</li>
           <li>It is written in the upper left corner of an element’s symbol.</li>
-          <li>It does not consider isotopes; it only focuses on a single atom's weight.</li>
+          <li>It does not consider isotopes; it only focuses on a single atom&apos;s weight.</li>
           <li>It is a whole number without decimals.</li>
           <li>The mass number is easy to use for general purposes.</li>
         </ul>
