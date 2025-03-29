@@ -93,7 +93,7 @@ mindmapDiagram {
 
       </section>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/HVc7QyGgDso?si=c2aChltIxxW3UY_C" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-   <p>Q19: Discuss the 'concept of relative atomic mass and atomic mass unit. Also discuss relative atomic masses of some elements. 
+   <p>Q19: Discuss the concept of relative atomic mass and atomic mass unit. Also discuss relative atomic masses of some elements. 
    </p>
    <div className="p-6 max-w-4xl mx-auto bg-white shadow-md rounded-2xl">
       <h1 className="text-2xl font-bold text-center mb-4">Relative Atomic Mass</h1>
