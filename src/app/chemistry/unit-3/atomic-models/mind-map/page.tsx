@@ -631,7 +631,7 @@ endlegend
           height={700}
         />
       </section>
-<p>Q11: What are the limitations of Bohr's atomic model? 
+<p>Q11: What are the limitations of Bohr&apos;s atomic model? 
 </p>
 <div className="max-w-3xl mx-auto p-6 bg-white shadow-lg rounded-lg">
       <h1 className="text-2xl font-bold mb-4 text-blue-600">Limitations of Bohr&apos;s Atomic Model</h1>
@@ -1129,9 +1129,9 @@ mindmapDiagram {
       </p>
       <h2 className="text-xl font-semibold text-blue-500 mb-2">Word Meaning:</h2>
       <ul className="list-disc list-inside text-gray-700">
-        <li><strong>Omni:</strong> Means "all" or "every."</li>
-        <li><strong>Presence:</strong> Means "being there."</li>
-        <li><strong>Omnipresence:</strong> Means "being everywhere at the same time."</li>
+        <li><strong>Omni:</strong> Means &quot;all&quot; or &quot;every.&quot;</li>
+        <li><strong>Presence:</strong> Means &quot;being there.&quot;</li>
+        <li><strong>Omnipresence:</strong> Means &quot;being everywhere at the same time.&quot;</li>
       </ul>
     </div>
   
