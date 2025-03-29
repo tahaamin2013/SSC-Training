@@ -9,7 +9,6 @@ const MagneticMindmap = () => {
         <h1 className="text-4xl font-bold text-blue-500">
           Atomic Models and Concepts
         </h1>
-        
 <p>Q2: What do you know about Dalton atomic theory? OR <br />
 Write down the main postulates of Dalton&apos;s Atomic Theory. OR <br />
 Why Dalton&apos;s atomic theory is considered as a base for modern atomic concepts.</p>
