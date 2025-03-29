@@ -66,25 +66,25 @@ const page = () => {
       <p className="mb-5 text-blue-600">
         Q11: What are the limitations of Bohr&apos;s atomic model?
       </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q12: Write down the fundamental properties of the fundamental particles
         of an atom? OR <br />
         Write fundamental properties of electron, proton and neutron? OR <br />
         Elaborate the concept of subatomic particles by showing their mutual
         relationship?
       </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q13: Illustrate the behavior of protons, neutrons, and electrons in an
         electric field?{" "}
       </p>
-      <p className="mb-5">Q14: Why atoms are neutral?</p>
+      <p className="mb-5 text-blue-600">Q14: Why atoms are neutral?</p>
 
-      <p className="mb-5">Q15: What are Radioisotopes? </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">Q15: What are Radioisotopes? </p>
+      <p className="mb-5 text-blue-600">
         Q16: Discuss atomic number or proton number in detail?{" "}
       </p>
-      <p className="mb-5">Q17: Discuss uniqueness of proton number. </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">Q17: Discuss uniqueness of proton number. </p>
+      <p className="mb-5 text-blue-600">
         Q18: Discuss nucleon number or mass number in detail. <br />
         Determining the number of protons and neutrons in an atom <br />
         Atomic Number of an element is 17 and mass number is 35. How many
@@ -107,7 +107,26 @@ const page = () => {
         g. 15 <br />
         h. 2<br />
       </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
+      Determining the number of protons and neutrons in an atom 
+Atomic Number of an element is 17 and mass number is 35. How many protons and neutrons are in the nucleus of an atom of this element? 
+
+      </p>
+
+      <p className="mb-5 text-blue-600">(1) What is the charge of a particle with 19 protons and 18 electrons? </p>
+      <p className="mb-5 text-blue-600">(ii) What is the charge of a particle with 7 protons and 10 electrons? </p>
+      <p className="mb-5 text-blue-600">(iii) What is the difference between the mass number and the atomic mass of an element?      </p>
+   <p className="mb-5 text-blue-600">Write the names and symbols for the elements with the following atomic numbers: 
+a. 1 
+b. 11 
+c. 19 
+d. 82 
+e. 35 
+f. 47 
+g. 15 
+h. 2
+</p>
+      <p className="mb-5 text-blue-600">
         Q19: Discuss the &apos;concept of relative atomic mass and atomic mass
         unit. Also discuss relative atomic masses of some elements.
       </p>

@@ -9,6 +9,72 @@ const MagneticMindmap = () => {
         <h1 className="text-4xl font-bold text-blue-500">
           Subatomic Particles
         </h1>
+        <p> 
+        Q12: Write down the fundamental properties of the fundamental particles of an atom?  <br />
+OR <br />
+Write fundamental properties of electron, proton and neutron? <br />
+OR <br />
+Elaborate the concept of subatomic particles by showing their mutual relationship? <br />
+        </p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7dEk2CHXjmo?si=ZKi8yrYD_h5PkqiP" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        <div className="p-6 max-w-2xl mx-auto bg-white rounded-xl shadow-md space-y-4">
+      <h1 className="text-2xl font-bold text-center">Fundamental Particles of an Atom</h1>
+      <p>
+        Atoms have more than 100 sub-atomic particles, but three are most important:
+        <strong> Electron, Proton,</strong> and <strong>Neutron</strong>. These are called fundamental particles.
+      </p>
+
+      <h2 className="text-xl font-semibold">1. Electron</h2>
+      <ul className="list-disc pl-5">
+        <li>Negatively charged particle.</li>
+        <li>Moves around the nucleus.</li>
+        <li>Charge: <code>-1.6022 × 10⁻¹⁹</code> C.</li>
+        <li>Mass: <code>9.11 × 10⁻³¹</code> kg.</li>
+      </ul>
+
+      <h2 className="text-xl font-semibold">2. Proton</h2>
+      <ul className="list-disc pl-5">
+        <li>Positively charged particle.</li>
+        <li>Located in the nucleus.</li>
+        <li>Charge: <code>+1.6022 × 10⁻¹⁹</code> C.</li>
+        <li>Mass: <code>1.6726 × 10⁻²⁷</code> kg (1837 times heavier than electron).</li>
+      </ul>
+
+      <h2 className="text-xl font-semibold">3. Neutron</h2>
+      <ul className="list-disc pl-5">
+        <li>Neutral particle (no charge).</li>
+        <li>Located in the nucleus.</li>
+        <li>Mass: <code>1.6749 × 10⁻²⁷</code> kg (1842 times heavier than electron).</li>
+      </ul>
+
+      <h2 className="text-xl font-semibold">Sub-Atomic Particles Comparison</h2>
+      <table className="w-full border-collapse border border-gray-300">
+        <thead>
+          <tr className="bg-gray-200">
+            <th className="border px-4 py-2">Particle</th>
+            <th className="border px-4 py-2">Charge</th>
+            <th className="border px-4 py-2">Mass (kg)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td className="border px-4 py-2">Electron</td>
+            <td className="border px-4 py-2">-1</td>
+            <td className="border px-4 py-2">9.11 × 10⁻³¹</td>
+          </tr>
+          <tr>
+            <td className="border px-4 py-2">Proton</td>
+            <td className="border px-4 py-2">+1</td>
+            <td className="border px-4 py-2">1.6726 × 10⁻²⁷</td>
+          </tr>
+          <tr>
+            <td className="border px-4 py-2">Neutron</td>
+            <td className="border px-4 py-2">0</td>
+            <td className="border px-4 py-2">1.6749 × 10⁻²⁷</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
         <PlantUMLDiagram
           code={`
 @startmindmap
@@ -97,6 +163,55 @@ left side
           height={300}
           className="w-full"
         />
+        <p>Q13: Illustrate the behavior of protons, neutrons, and electrons in an electric field? </p>
+        <div className="p-6 max-w-2xl mx-auto bg-white rounded-2xl shadow-lg space-y-4">
+      <h1 className="text-xl font-bold text-gray-900">Behavior of Protons, Neutrons, and Electrons in an Electric Field</h1>
+      
+      <div className="space-y-2">
+        <h2 className="text-lg font-semibold">1. Protons</h2>
+        <p className="text-gray-700">Protons have a positive charge (+1). In an electric field, they move towards the negatively charged plate.</p>
+      </div>
+      
+      <div className="space-y-2">
+        <h2 className="text-lg font-semibold">2. Neutrons</h2>
+        <p className="text-gray-700">Neutrons have no charge (0). They are not affected by an electric field and remain stationary.</p>
+      </div>
+      
+      <div className="space-y-2">
+        <h2 className="text-lg font-semibold">3. Electrons</h2>
+        <p className="text-gray-700">Electrons have a negative charge (-1). They move towards the positively charged plate in an electric field.</p>
+      </div>
+    </div>
+        <p>Q14: Why atoms are neutral? </p>
+      <div className="max-w-xl bg-white p-6 rounded-2xl shadow-lg text-lg">
+        <h1 className="text-2xl font-bold mb-4 text-gray-800">Why Are Atoms Neutral?</h1>
+        <p className="text-gray-700">
+          Atoms have no charge because they have the same number of protons and electrons.
+          Protons have a positive charge, and electrons have a negative charge. Since they
+          cancel each other out, the atom stays neutral.
+        </p>
+      </div>
+        <p>Q15: What are Radioisotopes? </p>
+        <div className="max-w-2xl mx-auto p-6 bg-white rounded-xl shadow-md">
+      <h1 className="text-2xl font-bold mb-4">Radioisotopes</h1>
+      <p className="mb-4">
+        Radioisotopes are atoms of the same element. They have the same number of protons but a different number of neutrons. This makes them unstable. To become stable, they release radiation.
+      </p>
+      <h2 className="text-xl font-semibold mb-2">Characteristics</h2>
+      <ul className="list-disc pl-5 mb-4">
+        <li>Same number of protons</li>
+        <li>Different number of neutrons</li>
+        <li>Unstable nucleus</li>
+        <li>Emits radiation (alpha, beta, gamma)</li>
+        <li>Used in medicine, industry, and research</li>
+      </ul>
+      <h2 className="text-xl font-semibold mb-2">Examples</h2>
+      <ul className="list-disc pl-5">
+        <li><strong>Carbon-14:</strong> Used to date ancient objects.</li>
+        <li><strong>Iodine-131:</strong> Helps treat thyroid problems.</li>
+        <li><strong>Uranium-238:</strong> Powers nuclear plants.</li>
+      </ul>
+    </div>
         <Image
           src="/isotopes-of-hydrogen.webp"
           alt='isotopes-of-hydrogen'

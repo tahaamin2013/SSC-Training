@@ -92,6 +92,62 @@ mindmapDiagram {
         />
 
       </section>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/HVc7QyGgDso?si=c2aChltIxxW3UY_C" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+   <p>Q19: Discuss the 'concept of relative atomic mass and atomic mass unit. Also discuss relative atomic masses of some elements. 
+   </p>
+   <div className="p-6 max-w-4xl mx-auto bg-white shadow-md rounded-2xl">
+      <h1 className="text-2xl font-bold text-center mb-4">Relative Atomic Mass</h1>
+      
+      <h2 className="text-xl font-semibold">Background</h2>
+      <p className="mt-2 text-gray-700">
+        Atoms are super tiny, so measuring their actual mass is really hard. For example, a hydrogen atom weighs about 1.672 × 10⁻²⁴ grams, which is too small to measure with regular tools. To make things easier, scientists compare atomic masses to a standard atom. The standard is carbon-12, which has been given a mass of exactly 12 atomic mass units (amu). One atomic mass unit is 1/12 of the mass of a carbon-12 atom.
+      </p>
+      
+      <h2 className="text-xl font-semibold mt-4">Definition</h2>
+      <p className="mt-2 text-gray-700">
+        The relative atomic mass of an element is the average mass of its atoms compared to 1/12 of the mass of a carbon-12 atom.
+      </p>
+      
+      <h2 className="text-xl font-semibold mt-4">Examples</h2>
+      <ul className="list-disc pl-6 mt-2 text-gray-700">
+        <li>Hydrogen (H) = 1 amu</li>
+        <li>Oxygen (O) = 16 amu</li>
+        <li>Magnesium (Mg) = 24 amu</li>
+        <li>Calcium (Ca) = 40 amu</li>
+        <li>Sodium (Na) = 23 amu</li>
+      </ul>
+      
+      <h2 className="text-xl font-semibold mt-4">Atomic Mass Scale</h2>
+      <p className="mt-2 text-gray-700">
+        The atomic mass scale is based on carbon-12. Scientists measure the mass of other atoms by comparing them to carbon-12.
+      </p>
+      
+      <h2 className="text-xl font-semibold mt-4">Atomic Mass Unit</h2>
+      <p className="mt-2 text-gray-700">
+        One atomic mass unit (amu) is exactly 1/12 of the mass of a carbon-12 atom.
+      </p>
+      
+      <h2 className="text-xl font-semibold mt-4">Relative Atomic Mass Table</h2>
+      <table className="mt-4 w-full border border-gray-300 text-left">
+        <thead>
+          <tr className="bg-gray-100">
+            <th className="p-2 border">Element</th>
+            <th className="p-2 border">Relative Atomic Mass</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td className="p-2 border">Hydrogen (H)</td><td className="p-2 border">1.008 amu</td></tr>
+          <tr><td className="p-2 border">Aluminum (Al)</td><td className="p-2 border">26.9815 amu</td></tr>
+          <tr><td className="p-2 border">Nitrogen (N)</td><td className="p-2 border">14.0067 amu</td></tr>
+          <tr><td className="p-2 border">Sulfur (S)</td><td className="p-2 border">32.06 amu</td></tr>
+          <tr><td className="p-2 border">Oxygen (O)</td><td className="p-2 border">15.9994 amu</td></tr>
+          <tr><td className="p-2 border">Chlorine (Cl)</td><td className="p-2 border">35.453 amu</td></tr>
+          <tr><td className="p-2 border">Sodium (Na)</td><td className="p-2 border">22.9898 amu</td></tr>
+          <tr><td className="p-2 border">Iron (Fe)</td><td className="p-2 border">55.847 amu</td></tr>
+        </tbody>
+      </table>
+    </div>
+    
       <div className="p-8 bg-gradient-to-r from-blue-100 to-teal-200 rounded-lg shadow-xl">
         <h1 className="text-3xl font-extrabold text-teal-800 mb-6">
           3.4 Relative Atomic Mass and Atomic Mass Unit
