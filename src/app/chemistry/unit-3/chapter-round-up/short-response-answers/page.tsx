@@ -211,30 +211,54 @@ const page = () => {
       <div className="max-w-2xl bg-white shadow-lg rounded-2xl p-6">
         <h1 className="text-2xl font-bold text-center mb-4">How Isotopes Help in Different Fields</h1>
         <div className="space-y-4 text-gray-700">
-          <Section title="Medical Uses" content={[
-            "Doctors use isotopes like carbon-11, oxygen-15, and fluorine-18 in PET scans.",
-            "Some, like iodine-131 and cobalt-60, help treat cancer."
-          ]} />
-          <Section title="Farming" content={[
-            "Isotopes like nitrogen-15 and carbon-13 improve crops.",
-            "Phosphorus-32 helps study how plants take nutrients."
-          ]} />
-          <Section title="Environment" content={[
-            "Carbon-14 and tritium track pollution in water and air.",
-            "Cesium-137 and strontium-90 show pollution sources."
-          ]} />
-          <Section title="Archaeology & Geology" content={[
-            "Carbon-14, uranium-238, and potassium-40 help date old objects."
-          ]} />
-          <Section title="Energy Production" content={[
-            "Uranium-235 and plutonium-239 power nuclear plants.",
-            "Cobalt-60 and cesium-137 also have nuclear uses."
-          ]} />
-          <Section title="Industry" content={[
-            "Iridium-192 and cobalt-60 help test materials and sterilize tools.",
-            "Americium-241 finds material defects."
-          ]} />
-        </div>
+  <div>
+    <h2 className="text-lg font-semibold">Medical Uses</h2>
+    <ul className="list-disc list-inside">
+      <li>Doctors use isotopes like carbon-11, oxygen-15, and fluorine-18 in PET scans.</li>
+      <li>Some, like iodine-131 and cobalt-60, help treat cancer.</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2 className="text-lg font-semibold">Farming</h2>
+    <ul className="list-disc list-inside">
+      <li>Isotopes like nitrogen-15 and carbon-13 improve crops.</li>
+      <li>Phosphorus-32 helps study how plants take nutrients.</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2 className="text-lg font-semibold">Environment</h2>
+    <ul className="list-disc list-inside">
+      <li>Carbon-14 and tritium track pollution in water and air.</li>
+      <li>Cesium-137 and strontium-90 show pollution sources.</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2 className="text-lg font-semibold">Archaeology & Geology</h2>
+    <ul className="list-disc list-inside">
+      <li>Carbon-14, uranium-238, and potassium-40 help date old objects.</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2 className="text-lg font-semibold">Energy Production</h2>
+    <ul className="list-disc list-inside">
+      <li>Uranium-235 and plutonium-239 power nuclear plants.</li>
+      <li>Cobalt-60 and cesium-137 also have nuclear uses.</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2 className="text-lg font-semibold">Industry</h2>
+    <ul className="list-disc list-inside">
+      <li>Iridium-192 and cobalt-60 help test materials and sterilize tools.</li>
+      <li>Americium-241 finds material defects.</li>
+    </ul>
+  </div>
+</div>
+
       </div>
     </div>
 
@@ -646,21 +670,5 @@ const page = () => {
   )
 }
 
-type SectionProps = {
-  title: string;
-  content?: string[];
-};
 
-export function Section({ title, content = [] }: SectionProps) {
-  return (
-    <div>
-      <h2 className="text-xl font-semibold mb-2">{title}</h2>
-      <ul className="list-disc list-inside space-y-1">
-        {content.map((text, idx) => (
-          <li key={idx}>{text}</li>
-        ))}
-      </ul>
-    </div>
-  );
-}
 
