@@ -98,6 +98,7 @@ const data = [
             { href: "/chemistry/unit-3/chapter-round-up/mind-map", text: "MIND MAP", icon: Brain },
             { href: "/chemistry/unit-3/chapter-round-up/quiz", text: "MCQS", icon: HelpCircle },
             { href: "/chemistry/unit-3/chapter-round-up/short-response-questions", text: "Short Response Questions", icon: FileText },
+            { href: "/chemistry/unit-3/chapter-round-up/short-response-answers", text: "Short Response Answers", icon: FileText },
             { href: "/chemistry/unit-3/chapter-round-up/textbook-questions", text: "TEXTBOOK QUESTIONS", icon: List },
         ],
     },
