@@ -225,7 +225,7 @@ U-238: 92 protons, 92 electrons, 146 neutrons<br />
       <h1 className="text-2xl font-bold mb-4">Second Answer</h1>
       <p className="mb-4 text-gray-700">
         The proton number decides which element it is. Normally, forces in the nucleus are balanced.
-        But sometimes, they aren't. When that happens, the atom's nucleus breaks down and changes into
+        But sometimes, they aren&apos;t. When that happens, the atom&apos;s nucleus breaks down and changes into
         another atom. This process is called radioactive decay, and we call this behavior radioactivity.
       </p>
       <p className="mb-4 text-gray-700">
