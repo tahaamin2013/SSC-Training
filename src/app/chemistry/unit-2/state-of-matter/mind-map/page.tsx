@@ -91,7 +91,7 @@ Relevant SLO in curriculum)
         <ul className="list-disc pl-6 text-gray-700 mb-4">
           <li>Highly conductive due to free-moving electrons and ions.</li>
           <li>Extremely hot, ranging from thousands to millions of degrees Celsius.</li>
-          <li>Emits light, which is why it's used in neon signs and plasma TVs.</li>
+          <li>Emits light, which is why it&apos;s used in neon signs and plasma TVs.</li>
           <li>Can be influenced by magnetic fields, useful in fusion reactors.</li>
         </ul>
         
@@ -273,12 +273,12 @@ Relevant SLO in curriculum)
         </p>
         <h2 className="text-xl font-medium text-gray-800 mb-2">When Solid Oxygen Forms:</h2>
         <p className="text-gray-700 mb-4">
-          At about -218°C, oxygen molecules slow down even more and become a solid. They only vibrate in place and can't move freely.
+          At about -218°C, oxygen molecules slow down even more and become a solid. They only vibrate in place and can&apos;t move freely.
         </p>
       </div>
     </div>
     <p>
-Following substances that have been used to create Bose-Einstein condensates (BEC's) <br />
+Following substances that have been used to create Bose-Einstein condensates (BEC&apos;s) <br />
 Rubidium-87  <br />
 Sodium-23  <br />
 Lithium-6  <br />
@@ -331,7 +331,7 @@ Helium atoms etc.
         <ul className="list-disc pl-5 mb-4">
           <li>They move like liquids, so they can change shape and direction.</li>
           <li>They also stay partly organized like solids, with molecules arranged in a pattern.</li>
-          <li>This pattern gives them unique abilities, like special optical and electrical features that regular liquids or solids don't have.</li>
+          <li>This pattern gives them unique abilities, like special optical and electrical features that regular liquids or solids don&apos;t have.</li>
           <li>Because of these traits, liquid crystals are used in things like screens (LCDs), special plastics, and even in living things.</li>
         </ul>
         <p className="text-lg">
