@@ -215,7 +215,7 @@ Calculate relative atomic mass of carbon.
         24.24% <br />
       </p>
 
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q26: Describe the process by which positive (cation) and negative
         (anions) are formed from atoms, including the role of electrons in this
         transformation? <br />
@@ -231,11 +231,11 @@ Calculate relative atomic mass of carbon.
         (b) Fluorine (atomic no 9)
       </p>
 
-      <p className="mb-5">Q27: Discuss Electronic Configuration. </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">Q27: Discuss Electronic Configuration. </p>
+      <p className="mb-5 text-blue-600">
         Q28: How can we assign symbols for atoms and ions?{" "}
       </p>
-      <p className="mb-5">
+      <p className="mb-5 text-blue-600">
         Q29: Write a note on radioactivity and how the identity of an element
         chan,, by radioactivity? (Cantab Exercise Question)
       </p>

@@ -195,6 +195,156 @@ U-235: 92 protons, 92 electrons, 143 neutrons<br />
 U-238: 92 protons, 92 electrons, 146 neutrons<br />
       </p>
 
+
+      <p className="mt-6">Q29: Write a note on radioactivity and how the identity of an element chan,, by radioactivity? </p>
+    <div className="p-6 max-w-3xl mx-auto bg-white rounded-2xl shadow-lg">
+      <h1 className="text-2xl font-bold text-blue-700 mb-4">Radioactivity</h1>
+      <p className="text-gray-700 mb-4">
+        Radioactivity ek process hai jisme kuch elements apni energy loose karte hain aur radiation nikalte hain. Yeh
+        naturally hota hai uranium aur thorium jaise elements mein, ya artificially nuclear reactions se.
+      </p>
+      
+      <h2 className="text-xl font-semibold text-blue-600 mb-2">Radioactive Decay</h2>
+      <p className="text-gray-700 mb-2">Teen tareeqe ke radioactive decay hote hain:</p>
+      <ul className="list-disc pl-5 text-gray-700 mb-4">
+        <li><strong>Alpha Decay:</strong> Alpha particle (helium nucleus) nikalta hai. Isse atomic number 2 kam hota hai aur mass number 4 kam hota hai.</li>
+        <li><strong>Beta Decay:</strong> Ek electron ya positron nikalta hai. Isse atomic number 1 zyada ya kam hota hai.</li>
+        <li><strong>Gamma Decay:</strong> High-energy gamma rays nikalti hain, lekin atomic number aur mass number nahi badalte.</li>
+      </ul>
+      
+      <h2 className="text-xl font-semibold text-blue-600 mb-2">Radioactivity Element Ko Kaise Change Karti Hai?</h2>
+      <p className="text-gray-700 mb-2">Jab ek atom radiation emit karta hai, to iska atomic number badal sakta hai. Isse ek element doosre element mein badal sakta hai.</p>
+      <ul className="list-disc pl-5 text-gray-700 mb-4">
+        <li><strong>Alpha Decay:</strong> Atomic number 2 kam ho jata hai, aur mass number 4 kam hota hai. <br /> <span className="text-blue-600">Example: Uranium-238 → Thorium-234 + Alpha particle</span></li>
+        <li><strong>Beta Decay:</strong> Atomic number 1 badhta ya kam hota hai. <br /> <span className="text-blue-600">Example: Carbon-14 → Nitrogen-14 + Beta particle</span></li>
+        <li><strong>Gamma Decay:</strong> Koi change nahi hota, sirf energy release hoti hai.</li>
+      </ul>
+
+
+
+      <h1 className="text-2xl font-bold mb-4">Second Answer</h1>
+      <p className="mb-4 text-gray-700">
+        The proton number decides which element it is. Normally, forces in the nucleus are balanced.
+        But sometimes, they aren't. When that happens, the atom's nucleus breaks down and changes into
+        another atom. This process is called radioactive decay, and we call this behavior radioactivity.
+      </p>
+      <p className="mb-4 text-gray-700">
+        This continues until the nucleus becomes stable. When an atom loses a neutron, it turns into a
+        different isotope. If it loses a proton, it becomes a different element. This means radioactivity
+        can change an atom’s identity.
+      </p>
+      <h2 className="text-xl font-semibold mt-6 mb-2">Examples:</h2>
+      <ul className="list-disc list-inside text-gray-700">
+        <li>
+          <strong>Carbon-14:</strong> A radioactive form of carbon found in the air. Living things absorb
+          carbon-14 and carbon-12. Over time, carbon-14 turns into nitrogen-14.
+        </li>
+        <li>
+          <strong>Uranium-238:</strong> A radioactive form of uranium. It slowly changes and finally becomes
+          stable lead-206.
+        </li>
+      </ul>
+    </div>
+
+    <p>
+    Q30: What is Carbon dating?  <br />
+OR  <br />
+Explain how, through carbon dating scientists determine the age of ancient artifacts or human remains? 
+    </p>
+    <div className="min-h-screen flex items-center justify-center bg-gray-100 p-6">
+      <div className="max-w-2xl bg-white p-6 rounded-2xl shadow-lg">
+        <h1 className="text-2xl font-bold mb-4 text-gray-800">Carbon Dating</h1>
+        
+        <h2 className="text-xl font-semibold mb-2 text-gray-700">What is Carbon Dating?</h2>
+        <p className="text-gray-600 mb-4">
+          Carbon dating is a way to find out how old things made from once-living materials are. It works for items up to 50,000 years old.
+        </p>
+
+        <h2 className="text-xl font-semibold mb-2 text-gray-700">How Does It Work?</h2>
+        <p className="text-gray-600 mb-2">
+          Cosmic rays from space hit the Earth's atmosphere every day. These rays create tiny particles called neutrons. When these neutrons hit nitrogen in the air, they turn into carbon-14. This carbon-14 mixes with oxygen to make carbon dioxide.
+        </p>
+        <p className="text-gray-600 mb-2">
+          Plants take in this carbon dioxide during photosynthesis. Animals and humans eat these plants, so they also take in carbon-14. The amount of carbon-14 in living things stays the same.
+        </p>
+        <p className="text-gray-600 mb-4">
+          But when an organism dies, it stops taking in carbon-14. Over time, carbon-14 slowly turns into nitrogen-14. Scientists can measure the amount of carbon-14 left in a sample. This helps them find out how old it is.
+        </p>
+
+        <p className="text-gray-700 font-semibold">Carbon dating is a powerful tool for studying the past!</p>
+      </div>
+    </div>
+
+    <p>Q31: Write a note on how radio isotopes use in medical imaging technology along applications of different isotopes? </p>
+    <div className="p-6 max-w-3xl mx-auto bg-white rounded-2xl shadow-md">
+      <h1 className="text-2xl font-bold text-blue-700 mb-4">Radioisotopes in Medical Imaging</h1>
+      <p className="text-gray-700 mb-4">
+        Radioisotopes help doctors see inside the body. They allow for accurate disease diagnosis and treatment.
+      </p>
+      
+      <h2 className="text-xl font-semibold text-blue-600 mb-2">Common Uses:</h2>
+      <ul className="list-disc list-inside text-gray-700 mb-4">
+        <li><strong>PET Scans:</strong> F-18 for cancer, O-15 for brain studies, N-13 for heart scans.</li>
+        <li><strong>SPECT Scans:</strong> Tc-99m for bones, I-131 for thyroid, Ga-67 for infection detection.</li>
+        <li><strong>Radiation Therapy:</strong> I-125 and Ir-192 for treating cancer.</li>
+        <li><strong>Bone Scans:</strong> Tc-99m for bone cancer diagnosis.</li>
+        <li><strong>Thyroid Scans:</strong> I-123 for thyroid function tests.</li>
+      </ul>
+      
+      <h2 className="text-xl font-semibold text-blue-600 mb-2">How It Works:</h2>
+      <ol className="list-decimal list-inside text-gray-700 mb-4">
+        <li>Radioisotopes attach to specific body parts.</li>
+        <li>They emit radiation, captured by imaging tools.</li>
+        <li>Doctors analyze images to diagnose conditions.</li>
+      </ol>
+      
+      <h2 className="text-xl font-semibold text-blue-600 mb-2">Why It’s Beneficial:</h2>
+      <ul className="list-disc list-inside text-gray-700 mb-4">
+        <li>Quick and painless.</li>
+        <li>Detects diseases early.</li>
+        <li>Highly accurate results.</li>
+        <li>Helps doctors plan the best treatments.</li>
+      </ul>
+      
+      <h2 className="text-xl font-semibold text-blue-600 mb-2">Interesting Fact:</h2>
+      <p className="text-gray-700">
+        Gamma rays are best for imaging because they pass through the body easily, creating clear pictures. Alpha and beta particles don’t travel far, making them less useful.
+      </p>
+    </div>
+    <p className="mt-5">Q32: Discuss some differences between chemical reaction and nuclear reactions? </p>
+    <div className="p-6 max-w-3xl mx-auto bg-white rounded-2xl shadow-md">
+      <h1 className="text-2xl font-bold mb-4">Chemical and Nuclear Reactions</h1>
+      
+      <section className="mb-6">
+        <h2 className="text-xl font-semibold mb-2">Chemical Reactions</h2>
+        <p>
+          In chemical reactions, atoms stay the same because their atomic numbers do not change. 
+          Usually, only the outer electrons take part in these reactions.
+        </p>
+      </section>
+      
+      <section className="mb-6">
+        <h2 className="text-xl font-semibold mb-2">Nuclear Reactions</h2>
+        <p>
+          In nuclear reactions, atoms change since the number of protons and neutrons shifts. 
+          This affects both atomic number and mass. 
+        </p>
+        <p>
+          These reactions involve protons and neutrons. The outer electrons do not matter here.
+        </p>
+      </section>
+      
+      <section>
+        <h2 className="text-xl font-semibold mb-2">Exam Resources</h2>
+        <p>
+          Since NBF and Cantab books are both recommended for FBISE students, exercises from both 
+          books are included. This helps students understand concepts from different textbooks used in Pakistan. 
+        </p>
+        <p>
+          These resources also assist with SLO-based exam preparation.
+        </p>
+      </section>
+    </div>
         <PlantUMLDiagram
           code={`
 @startmindmap
