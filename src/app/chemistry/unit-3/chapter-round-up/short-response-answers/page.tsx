@@ -648,15 +648,15 @@ const page = () => {
 
 type SectionProps = {
   title: string;
-  content?: string[]; // content optional banaya
+  content?: string[];
 };
 
-export default function Section({ title, content = [] }: SectionProps) {
+export function Section({ title, content = [] }: SectionProps) {
   return (
     <div>
       <h2 className="text-xl font-semibold mb-2">{title}</h2>
       <ul className="list-disc list-inside space-y-1">
-        {content?.map((text, idx) => (
+        {content.map((text, idx) => (
           <li key={idx}>{text}</li>
         ))}
       </ul>
