@@ -1,5 +1,7 @@
 import React from 'react'
 
+
+
 const page = () => {
   const elements = [
     { symbol: 'Si', name: 'Silicon', atomicNumber: 14, config: '1s² 2s² 2p⁶ 3s² 3p²' },
@@ -672,3 +674,5 @@ const page = () => {
 
 
 
+
+export default page
