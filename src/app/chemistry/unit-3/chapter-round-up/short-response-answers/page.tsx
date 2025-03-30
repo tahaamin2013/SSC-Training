@@ -166,8 +166,8 @@ const page = () => {
 (c) Argon (Atomic No. 18, Mass No 39) 
 </p>
 <div className="p-6 max-w-2xl mx-auto bg-white rounded-xl shadow-md space-y-4">
-      <h1 className="text-xl font-bold">Bohr's Model Drawing Task</h1>
-      <p>Draw Bohr's model for these atoms. Show electrons, protons, and neutrons.</p>
+      <h1 className="text-xl font-bold">Bohr&apos;s Model Drawing Task</h1>
+      <p>Draw Bohr&apos;s model for these atoms. Show electrons, protons, and neutrons.</p>
       <ul className="list-disc pl-6 space-y-2">
         <li><strong>Potassium</strong> (Atomic No: 19, Mass No: 39)</li>
         <li><strong>Silicon</strong> (Atomic No: 14, Mass No: 28)</li>
@@ -308,10 +308,10 @@ const page = () => {
         </p>
         <ul className="list-disc pl-5 text-gray-700 my-4">
           <li>
-            <strong>Element Symbol (Al):</strong> "Al" stands for aluminum.
+            <strong>Element Symbol (Al):</strong> &quot;Al&quot; stands for aluminum.
           </li>
           <li>
-            <strong>Atomic Number (13):</strong> This means aluminum has <strong>13 protons</strong> in its nucleus. Since it's neutral, it also has <strong>13 electrons</strong>.
+            <strong>Atomic Number (13):</strong> This means aluminum has <strong>13 protons</strong> in its nucleus. Since it neutral, it also has <strong>13 electrons</strong>.
           </li>
           <li>
             <strong>Mass Number (27):</strong> This is the sum of protons and neutrons in the nucleus.
@@ -386,7 +386,7 @@ const page = () => {
           However, the strong force only works at very short distances. It acts between tiny particles called quarks, which make up protons and neutrons.
         </p>
         <p className="text-lg">
-          Without this force, atoms wouldn't exist, and neither would we!
+          Without this force, atoms wouldn&apos;t exist, and neither would we!
         </p>
       </div>
     </div>
@@ -394,7 +394,7 @@ const page = () => {
 <div className="max-w-2xl mx-auto p-6 bg-white shadow-lg rounded-2xl">
       <h1 className="text-2xl font-bold mb-4">Why Do Isotopes Have the Same Chemical Properties?</h1>
       <p className="mb-2">
-        Isotopes are atoms of the same element with different numbers of neutrons. Even though their masses are different, their chemical properties remain the same. Here's why:
+        Isotopes are atoms of the same element with different numbers of neutrons. Even though their masses are different, their chemical properties remain the same. Here&apos;s why:
       </p>
       <ul className="list-disc list-inside space-y-2">
         <li>
@@ -407,7 +407,7 @@ const page = () => {
           <strong>Valence Electrons Matter:</strong> Chemical reactions involve the outermost (valence) electrons. Isotopes of the same element have the same valence electrons, so they react the same way.
         </li>
         <li>
-          <strong>Neutrons Don't Affect Chemistry:</strong> Neutrons are inside the nucleus and only change an atom's mass, not its chemical properties.
+          <strong>Neutrons Don&apos;t Affect Chemistry:</strong> Neutrons are inside the nucleus and only change an atom&apos;s mass, not its chemical properties.
         </li>
       </ul>
       <p className="mt-4">
@@ -583,7 +583,7 @@ const page = () => {
             <tr className="bg-gray-100">
               <td className="border border-gray-300 p-2">Example</td>
               <td className="border border-gray-300 p-2">Carbon-12 has 12 nucleons (6 protons + 6 neutrons).</td>
-              <td className="border border-gray-300 p-2">Carbon's atomic mass is ~12.01 amu (average of C-12 & C-13).</td>
+              <td className="border border-gray-300 p-2">Carbon&apos;s atomic mass is ~12.01 amu (average of C-12 & C-13).</td>
             </tr>
           </tbody>
         </table>
