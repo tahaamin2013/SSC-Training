@@ -182,7 +182,7 @@ const MagneticMindmap = () => {
       </ul>
       <p className="mb-4 font-semibold">Fill in the blanks:</p>
       <div className="bg-gray-100 p-4 rounded-lg">
-        <p className="mb-2">1. <strong>²³⁴U</strong> has <span className="text-red-500">___</span> protons, <span className="text-red-500">___</span> electrons, and <span className="text-red-500">___</span> neutrons.</p>
+        <p className="mb-2">1. <strong>²³⁴U</strong> has <span className="text-red-500">___</span> protons, <span className="text-red-500">___</span> electrons, and <span className="text-red-500">___</span> neutrons.</p>  
         <p className="mb-2">2. <strong>²³⁵U</strong> has <span className="text-red-500">___</span> protons, <span className="text-red-500">___</span> electrons, and <span className="text-red-500">___</span> neutrons.</p>
         <p className="mb-2">3. <strong>²³⁸U</strong> has <span className="text-red-500">___</span> protons, <span className="text-red-500">___</span> electrons, and <span className="text-red-500">___</span> neutrons.</p>
       </div></p>
@@ -262,7 +262,7 @@ Explain how, through carbon dating scientists determine the age of ancient artif
 
         <h2 className="text-xl font-semibold mb-2 text-gray-700">How Does It Work?</h2>
         <p className="text-gray-600 mb-2">
-          Cosmic rays from space hit the Earth's atmosphere every day. These rays create tiny particles called neutrons. When these neutrons hit nitrogen in the air, they turn into carbon-14. This carbon-14 mixes with oxygen to make carbon dioxide.
+          Cosmic rays from space hit the Earth&apos;s atmosphere every day. These rays create tiny particles called neutrons. When these neutrons hit nitrogen in the air, they turn into carbon-14. This carbon-14 mixes with oxygen to make carbon dioxide.
         </p>
         <p className="text-gray-600 mb-2">
           Plants take in this carbon dioxide during photosynthesis. Animals and humans eat these plants, so they also take in carbon-14. The amount of carbon-14 in living things stays the same.
