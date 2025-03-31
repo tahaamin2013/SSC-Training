@@ -7,6 +7,224 @@ const MagneticMindmap = () => {
     <div className="p-8 flex flex-col gap-8">
       <section>
         <h1 className="text-4xl font-bold text-blue-500">SOLUTION</h1>
+        <p>Q6: Define Solution, and also write down its properties. </p>
+        <div className="p-6 max-w-3xl mx-auto bg-white shadow-lg rounded-2xl">
+      <h1 className="text-2xl font-bold mb-4">Solutions</h1>
+      
+      <h2 className="text-xl font-semibold">Definition:</h2>
+      <p className="mb-4">A solution is a mixture where one substance dissolves in another. It looks the same throughout.</p>
+      
+      <h2 className="text-xl font-semibold">Examples:</h2>
+      <ul className="list-disc list-inside mb-4">
+        <li>Saltwater</li>
+        <li>Sugar water</li>
+        <li>Vinegar</li>
+        <li>Metal alloys like brass</li>
+        <li>Air</li>
+      </ul>
+      
+      <h2 className="text-xl font-semibold">Properties of a Solution:</h2>
+      <ol className="list-decimal list-inside mb-4">
+        <li>A solution is completely mixed and looks uniform.</li>
+        <li>The solute particles are tiny, smaller than 1 nm.</li>
+        <li>You cannot see the particles, even with a microscope.</li>
+        <li>A solution passes through filter paper, so it cannot be filtered.</li>
+        <li>Solutions stay mixed and do not separate over time.</li>
+        <li>They do not scatter light because the particles are very small.</li>
+      </ol>
+    </div>
+        <p>Q7: What are the components of solution and write its properties. </p>
+        <div className="p-6 max-w-3xl mx-auto text-lg leading-relaxed">
+      <h1 className="text-2xl font-bold mb-4">Understanding Solutions</h1>
+      <p>A solution is a uniform mixture of two or more substances. It has two main parts:</p>
+      
+      <h2 className="text-xl font-semibold mt-4">Components of a Solution</h2>
+      <ul className="list-disc ml-6">
+        <li><strong>Solute:</strong> The substance that dissolves. It is present in a smaller amount.</li>
+        <li><strong>Solvent:</strong> The substance that dissolves the solute. It is present in a larger amount.</li>
+      </ul>
+
+      <h2 className="text-xl font-semibold mt-4">Examples</h2>
+      <p>In a salt solution, salt is the solute and water is the solvent. Some solutions have multiple solutes, like soft drinks. Here, water is the solvent, and sugar, salts, and CO₂ are solutes. Air is another example, where nitrogen is the solvent, and oxygen, carbon dioxide, and other gases are solutes.</p>
+
+      <h2 className="text-xl font-semibold mt-4">Types of Solutions</h2>
+      <p>Solutions exist in different physical states based on the state of the solvent.</p>
+      
+      <h3 className="text-lg font-semibold mt-3">Gaseous Solutions</h3>
+      <p>These have a gas as the solvent. The Haber's process uses a mixture of nitrogen and hydrogen to produce ammonia. Other examples include:</p>
+      <ul className="list-disc ml-6">
+        <li>Fog, clouds, and mist (water droplets in air)</li>
+        <li>Smoke (carbon particles in air)</li>
+      </ul>
+
+      <h3 className="text-lg font-semibold mt-3">Liquid Solutions</h3>
+      <p>Here, the solvent is a liquid. Examples include:</p>
+      <ul className="list-disc ml-6">
+        <li>Carbonated drinks (water as solvent, CO₂ as solute)</li>
+        <li>Vinegar (acetic acid in water)</li>
+        <li>Brine and sugar solutions (salt or sugar in water)</li>
+      </ul>
+      
+      <h3 className="text-lg font-semibold mt-3">Solid Solutions</h3>
+      <p>In solid solutions, the solvent is solid. Examples include:</p>
+      <ul className="list-disc ml-6">
+        <li>Hydrogen gas absorbed by nickel (used in the ghee industry)</li>
+        <li>Amalgams (metals dissolved in liquid mercury)</li>
+        <li>Alloys (mixtures of metals like brass, bronze, and steel)</li>
+      </ul>
+    </div>
+        <p>Q8: Write classification of solution in detail </p>
+        <div className="max-w-4xl mx-auto p-6 bg-gray-100 rounded-lg shadow-lg">
+      <h1 className="text-2xl font-bold mb-4">Classification of Solutions</h1>
+      
+      <section>
+        <h2 className="text-xl font-semibold">1. Based on Solvent Nature</h2>
+        <p>Solutions are classified by the type of solvent used.</p>
+        
+        <h3 className="text-lg font-semibold mt-2">Aqueous Solutions</h3>
+        <p>These solutions use water as the solvent.</p>
+        <p><strong>Example:</strong> Salt in water, sugar in water.</p>
+        <p>Water is called the universal solvent because it dissolves many substances.</p>
+        
+        <h3 className="text-lg font-semibold mt-2">Non-Aqueous Solutions</h3>
+        <p>These solutions use solvents other than water, such as alcohol or ammonia.</p>
+        <p><strong>Example:</strong> Sugar dissolved in alcohol.</p>
+      </section>
+      
+      <section className="mt-4">
+        <h2 className="text-xl font-semibold">2. Based on Solubility</h2>
+        
+        <h3 className="text-lg font-semibold mt-2">Saturated Solutions</h3>
+        <p>These contain the maximum solute that can dissolve at a given temperature.</p>
+        <p>If more solute is added, it won’t dissolve.</p>
+        <p><strong>Example:</strong> A sugar solution with the maximum sugar dissolved.</p>
+        
+        <h3 className="text-lg font-semibold mt-2">Unsaturated Solutions</h3>
+        <p>These have less solute than they can hold. More solute can still dissolve.</p>
+        <p><strong>Example:</strong> A sugar solution that can still dissolve more sugar.</p>
+        
+        <h3 className="text-lg font-semibold mt-2">Supersaturated Solutions</h3>
+        <p>These hold more solute than a saturated solution. They are unstable.</p>
+        <p>Formed by heating a solution, dissolving excess solute, and cooling it slowly.</p>
+        <p><strong>Example:</strong> A sugar solution that, when cooled, forms sugar crystals.</p>
+      </section>
+      
+      <section className="mt-4">
+        <h2 className="text-xl font-semibold">3. Based on Solute Quantity</h2>
+        
+        <h3 className="text-lg font-semibold mt-2">Concentrated Solutions</h3>
+        <p>Contain a high amount of solute relative to the solvent.</p>
+        <p><strong>Example:</strong> 90% sugar, 10% water.</p>
+        
+        <h3 className="text-lg font-semibold mt-2">Dilute Solutions</h3>
+        <p>Contain a low amount of solute relative to the solvent.</p>
+        <p><strong>Example:</strong> 10% sugar, 90% water.</p>
+      </section>
+    </div>
+        <p>Q9: Define Solubility. What are the factors which affect solubility? </p>
+        <div className="max-w-3xl mx-auto p-6 bg-white rounded-lg shadow-lg">
+      <h1 className="text-2xl font-bold text-center mb-4">Solubility</h1>
+      <h2 className="text-xl font-semibold mt-4">Definition</h2>
+      <p className="mt-2">
+        Solubility is the maximum amount of a substance that can dissolve in 100 grams of a solvent at a given temperature.
+      </p>
+      <p className="mt-2">
+        If the solvent is water, solubility refers to how much of a substance can dissolve in 100 grams of water at a specific temperature.
+      </p>
+      
+      <h2 className="text-xl font-semibold mt-4">Factors Affecting Solubility</h2>
+      <p className="mt-2">Solubility depends on the type of solvent, temperature, and pressure.</p>
+      
+      <h2 className="text-xl font-semibold mt-4">Effect of Temperature on Solubility</h2>
+      <h3 className="text-lg font-medium mt-2">Solids in Liquids</h3>
+      <p className="mt-2">
+        Most solids dissolve better in hot liquids. Heat gives energy to molecules, helping them break apart and mix into the liquid.
+      </p>
+      <p className="mt-2">Example: Sugar dissolves better in hot water.</p>
+      <p className="mt-2 font-semibold">Exception: Some solids dissolve less in hot water. Example: Calcium sulfate.</p>
+      
+      <h3 className="text-lg font-medium mt-2">Liquids in Liquids</h3>
+      <p className="mt-2">
+        Temperature has little effect on liquid-to-liquid solubility because both are already in the same phase.
+      </p>
+      <p className="mt-2">Example: Ethanol and water mix well at all temperatures.</p>
+      
+      <h3 className="text-lg font-medium mt-2">Gases in Liquids</h3>
+      <p className="mt-2">
+        Gases dissolve less in warm liquids. Higher temperature makes gas molecules move faster and escape.
+      </p>
+      <p className="mt-2">Example: Soda loses fizz faster in warm temperatures.</p>
+      
+      <h2 className="text-xl font-semibold mt-4">Solubility of Some Salts</h2>
+      <table className="mt-4 w-full border-collapse border border-gray-300">
+        <thead>
+          <tr className="bg-gray-200">
+            <th className="border border-gray-300 p-2">Solute</th>
+            <th className="border border-gray-300 p-2">At 20°C</th>
+            <th className="border border-gray-300 p-2">At 100°C</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td className="border border-gray-300 p-2">NaCl</td>
+            <td className="border border-gray-300 p-2">36.5g</td>
+            <td className="border border-gray-300 p-2">39.2g</td>
+          </tr>
+          <tr>
+            <td className="border border-gray-300 p-2">KCl</td>
+            <td className="border border-gray-300 p-2">37.5g</td>
+            <td className="border border-gray-300 p-2">77g</td>
+          </tr>
+          <tr>
+            <td className="border border-gray-300 p-2">Ca(OH)₂</td>
+            <td className="border border-gray-300 p-2">0.173g</td>
+            <td className="border border-gray-300 p-2">0.066g</td>
+          </tr>
+        </tbody>
+      </table>
+      
+      <p className="mt-4">Example: Calcium hydroxide dissolves less in hot water.</p>
+    </div>
+
+    <p>5. Describe the factors that influence the solubility of a substance, with a specific focus on the effect of temperature. </p>
+    <div className="p-6 max-w-2xl mx-auto bg-white rounded-xl shadow-md space-y-4">
+      <h1 className="text-2xl font-bold text-center">Factors Affecting Solubility</h1>
+      <ul className="list-decimal pl-6 space-y-2">
+        <li><strong>Solute & Solvent Nature:</strong> Substances dissolve best in similar types of solvents. Polar dissolves polar, non-polar dissolves non-polar.</li>
+        <li><strong>Temperature:</strong> Higher temperatures usually help solids dissolve faster in liquids. However, gases dissolve less as temperature rises.</li>
+        <li><strong>Pressure:</strong> This mostly affects gases. More pressure means more gas dissolves in liquids.</li>
+        <li><strong>Stirring:</strong> Mixing speeds up the dissolving process by spreading solute particles evenly.</li>
+      </ul>
+    </div>
+    <p>6 . If you have a saturated solution of sugar in water, what will happen if you increase the temperature and why? </p>
+    <div className="p-6 bg-gray-50 min-h-screen text-gray-800">
+      <div className="max-w-3xl mx-auto bg-white p-6 shadow-lg rounded-2xl">
+        <h1 className="text-2xl font-bold mb-4">Understanding Matter</h1>
+        <p className="mb-4">
+          When you heat a saturated sugar solution, more sugar dissolves. This is because higher temperature breaks forces between molecules, allowing more sugar to mix in.
+        </p>
+        
+        <h2 className="text-xl font-semibold mt-4">Key Points</h2>
+        <ul className="list-disc list-inside space-y-2 mt-2">
+          <li><strong>Matter:</strong> Anything with mass that takes up space.</li>
+          <li><strong>Plasma:</strong> A charged gas affected by electric and magnetic fields.</li>
+          <li><strong>Allotropy:</strong> An element’s ability to exist in different forms.</li>
+          <li><strong>Element:</strong> The simplest matter, made of identical atoms.</li>
+          <li><strong>Compound:</strong> A substance with two or more different atoms bonded together.</li>
+          <li><strong>Solution:</strong> A uniform mixture of two or more substances.</li>
+          <li><strong>Aqueous Solution:</strong> A solution where water is the solvent.</li>
+          <li><strong>Saturated Solution:</strong> A solution that holds the maximum solute at a given temperature.</li>
+          <li><strong>Unsaturated Solution:</strong> A solution with less solute than a saturated one.</li>
+          <li><strong>Colloid:</strong> A mixture with particles between 1 and 1000 nanometers.</li>
+          <li><strong>Suspension:</strong> A mix where solid particles float but don’t dissolve.</li>
+        </ul>
+        
+        <h2 className="text-xl font-semibold mt-4">Study Resources</h2>
+        <p className="mt-2">
+          Students preparing for FBISE exams can refer to both NBF and Cantab books. These resources ensure comprehensive learning and help in SLO-based exam preparation.
+        </p>
+      </div>
+    </div>
         <PlantUMLDiagram
           code={`
 @startmindmap

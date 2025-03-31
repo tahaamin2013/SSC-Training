@@ -6,6 +6,118 @@ const MagneticMindmap = () => {
         <div className="p-8 flex flex-col gap-8">
             <section>
                 <h1 className="text-4xl font-bold text-blue-500">ELEMENTS, COMPOUNDS AND MIXTURES</h1>
+           <p>Q4: Describe the difference between elements, compounds and mixtures. (Cantab Exercise Question). </p>
+           <div className="max-w-4xl mx-auto p-6 bg-white shadow-lg rounded-lg">
+      <h1 className="text-3xl font-bold text-center mb-6">Elements, Compounds, and Mixtures</h1>
+      <p className="text-lg mb-4">
+        Everything around us is either a pure substance or a mixture. Mixtures are impure substances.
+      </p>
+      <h2 className="text-2xl font-semibold mt-4">Pure Substances: Elements and Compounds</h2>
+      
+      <h3 className="text-xl font-semibold mt-3">Elements</h3>
+      <p className="text-lg mb-2">
+        Elements are the basic building blocks of matter. They cannot be broken down into simpler substances.
+      </p>
+      <p className="text-lg mb-2">
+        Each element is made of identical atoms. There are 115 known elements, with 92 occurring naturally.
+      </p>
+      <p className="text-lg mb-4">Examples: Hydrogen (H), Carbon (C), Oxygen (O), and Iron (Fe).</p>
+      
+      <h3 className="text-xl font-semibold mt-3">Compounds</h3>
+      <p className="text-lg mb-2">
+        A compound is made of two or more elements combined in a fixed ratio. Example: Water (H₂O) is made of hydrogen and oxygen in a 2:1 ratio by volume.
+      </p>
+      
+      <h2 className="text-2xl font-semibold mt-4">Mixtures</h2>
+      <p className="text-lg mb-2">
+        Mixtures contain two or more substances combined in any proportion. They can be separated using simple lab methods like filtration and distillation.
+      </p>
+      
+      <h3 className="text-xl font-semibold mt-3">Types of Mixtures</h3>
+      <h4 className="text-lg font-semibold mt-2">Homogeneous Mixtures</h4>
+      <p className="text-lg mb-2">
+        In a homogeneous mixture, substances are evenly distributed. Examples: Saltwater, air, and sugar dissolved in water.
+      </p>
+      <h4 className="text-lg font-semibold mt-2">Heterogeneous Mixtures</h4>
+      <p className="text-lg mb-2">
+        In a heterogeneous mixture, substances are not evenly mixed. Examples: Sand and water, milk, and blood.
+      </p>
+      
+      <h2 className="text-2xl font-semibold mt-4">Comparison Table</h2>
+      <table className="w-full mt-3 border-collapse border border-gray-300">
+        <thead>
+          <tr className="bg-gray-100">
+            <th className="border p-2">Property</th>
+            <th className="border p-2">Element</th>
+            <th className="border p-2">Compound</th>
+            <th className="border p-2">Mixture</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td className="border p-2">Composition</td>
+            <td className="border p-2">One type of atom</td>
+            <td className="border p-2">Two or more elements</td>
+            <td className="border p-2">Two or more substances</td>
+          </tr>
+          <tr>
+            <td className="border p-2">Formula</td>
+            <td className="border p-2">Symbol (H, O, Fe)</td>
+            <td className="border p-2">Formula (H₂O, CO₂)</td>
+            <td className="border p-2">No fixed formula</td>
+          </tr>
+          <tr>
+            <td className="border p-2">Separation</td>
+            <td className="border p-2">Cannot be broken</td>
+            <td className="border p-2">Separated by chemical means</td>
+            <td className="border p-2">Separated by physical means</td>
+          </tr>
+        </tbody>
+      </table>
+      
+      <h2 className="text-2xl font-semibold mt-4">Summary</h2>
+      <p className="text-lg mb-2">
+        Elements have only one type of atom. Compounds have two or more elements chemically bonded. Mixtures have multiple substances physically combined. Elements and compounds are pure substances, while mixtures are impure.
+      </p>
+      <p>1. What are elements, and how are they different from compounds and mixtures? </p>
+      <div className="p-6 bg-gray-50 min-h-screen text-gray-800">
+      <div className="max-w-3xl mx-auto bg-white p-6 shadow-lg rounded-2xl">
+        <h1 className="text-2xl font-bold mb-4">Understanding Matter</h1>
+        <p className="mb-4">
+          When you heat a saturated sugar solution, more sugar dissolves. This is because higher temperature breaks forces between molecules, allowing more sugar to mix in.
+        </p>
+        
+        <h2 className="text-xl font-semibold mt-4">Key Points</h2>
+        <ul className="list-disc list-inside space-y-2 mt-2">
+          <li><strong>Matter:</strong> Anything with mass that takes up space.</li>
+          <li><strong>Plasma:</strong> A charged gas affected by electric and magnetic fields.</li>
+          <li><strong>Allotropy:</strong> An element’s ability to exist in different forms.</li>
+          <li><strong>Element:</strong> The simplest matter, made of identical atoms.</li>
+          <li><strong>Compound:</strong> A substance with two or more different atoms bonded together.</li>
+          <li><strong>Solution:</strong> A uniform mixture of two or more substances.</li>
+          <li><strong>Aqueous Solution:</strong> A solution where water is the solvent.</li>
+          <li><strong>Saturated Solution:</strong> A solution that holds the maximum solute at a given temperature.</li>
+          <li><strong>Unsaturated Solution:</strong> A solution with less solute than a saturated one.</li>
+          <li><strong>Colloid:</strong> A mixture with particles between 1 and 1000 nanometers.</li>
+          <li><strong>Suspension:</strong> A mix where solid particles float but don’t dissolve.</li>
+        </ul>
+        
+        <h2 className="text-xl font-semibold mt-4">Study Resources</h2>
+        <p className="mt-2">
+          Students preparing for FBISE exams can refer to both NBF and Cantab books. These resources ensure comprehensive learning and help in SLO-based exam preparation.
+        </p>
+      </div>
+    </div>
+     <p>2. Give an example of an element, a compound, and a mixture from everyday life. </p>
+     <div className="min-h-screen flex items-center justify-center bg-gray-100 p-4">
+      <div className="max-w-lg bg-white shadow-lg rounded-2xl p-6">
+        <h1 className="text-2xl font-bold text-gray-900 mb-4">Simple Science Facts</h1>
+        <p className="text-gray-700 mb-2"><strong>Element:</strong> Oxygen (O₂) - It's the air we breathe.</p>
+        <p className="text-gray-700 mb-2"><strong>Compound:</strong> Water (H₂O) - We drink it and cook with it.</p>
+        <p className="text-gray-700"><strong>Mixture:</strong> Salad - A mix of lettuce, tomatoes, cucumbers, and dressing. They are together but not combined chemically.</p>
+      </div>
+    </div>
+    </div>
                 <PlantUMLDiagram
                     code={`
 @startmindmap
