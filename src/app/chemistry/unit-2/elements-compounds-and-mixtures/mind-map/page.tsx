@@ -112,7 +112,7 @@ const MagneticMindmap = () => {
      <div className="min-h-screen flex items-center justify-center bg-gray-100 p-4">
       <div className="max-w-lg bg-white shadow-lg rounded-2xl p-6">
         <h1 className="text-2xl font-bold text-gray-900 mb-4">Simple Science Facts</h1>
-        <p className="text-gray-700 mb-2"><strong>Element:</strong> Oxygen (O₂) - It's the air we breathe.</p>
+        <p className="text-gray-700 mb-2"><strong>Element:</strong> Oxygen (O₂) - It&apos;s the air we breathe.</p>
         <p className="text-gray-700 mb-2"><strong>Compound:</strong> Water (H₂O) - We drink it and cook with it.</p>
         <p className="text-gray-700"><strong>Mixture:</strong> Salad - A mix of lettuce, tomatoes, cucumbers, and dressing. They are together but not combined chemically.</p>
       </div>

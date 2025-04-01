@@ -51,7 +51,7 @@ const MagneticMindmap = () => {
       <p>Solutions exist in different physical states based on the state of the solvent.</p>
       
       <h3 className="text-lg font-semibold mt-3">Gaseous Solutions</h3>
-      <p>These have a gas as the solvent. The Haber's process uses a mixture of nitrogen and hydrogen to produce ammonia. Other examples include:</p>
+      <p>These have a gas as the solvent. The Haber&apos;s process uses a mixture of nitrogen and hydrogen to produce ammonia. Other examples include:</p>
       <ul className="list-disc ml-6">
         <li>Fog, clouds, and mist (water droplets in air)</li>
         <li>Smoke (carbon particles in air)</li>

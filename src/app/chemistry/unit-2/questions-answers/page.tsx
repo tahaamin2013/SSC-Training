@@ -208,7 +208,7 @@ const data = [
       <div className="bg-white p-6 rounded-2xl shadow-lg max-w-md text-center">
         <h1 className="text-2xl font-bold text-gray-800">Atomic Number of Argon</h1>
         <p className="text-gray-600 mt-4 text-lg">
-          An element's atomic number is the count of protons in its nucleus. Since Argon has 18 protons, its atomic number is 18.
+          An element&apos;s atomic number is the count of protons in its nucleus. Since Argon has 18 protons, its atomic number is 18.
         </p>
     </div>
 7. Describe state of matter with example. <br /> 
@@ -275,10 +275,10 @@ const data = [
         <h2 className="text-xl font-semibold mb-2">Results:</h2>
         <ul className="list-disc pl-6">
           <li>
-            <span className="font-bold">Colloid:</span> If the light spreads out and is visible, it's a colloid.
+            <span className="font-bold">Colloid:</span> If the light spreads out and is visible, it&apos;s a colloid.
           </li>
           <li>
-            <span className="font-bold">True Solution:</span> If the light passes straight through, it's a true solution.
+            <span className="font-bold">True Solution:</span> If the light passes straight through, it&apos;s a true solution.
           </li>
         </ul>
       </div>
@@ -606,7 +606,7 @@ silicon, sea water, calcium, argon, water, air, carbon monoxide, iron, sodium ch
         <h1 className="text-3xl font-semibold text-center text-blue-600 mb-4">Temperature and Solubility</h1>
         <p className="text-lg text-gray-800 mb-6">
           Temperature has a big effect on how well a solid can dissolve in a liquid. Solubility is the amount of solute that
-          can dissolve in a solvent at a certain temperature and pressure. Here's how temperature affects this:
+          can dissolve in a solvent at a certain temperature and pressure. Here&apos;s how temperature affects this:
         </p>
 
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">Increase in Temperature:</h2>

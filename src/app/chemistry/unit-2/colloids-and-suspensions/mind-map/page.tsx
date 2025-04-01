@@ -120,7 +120,7 @@ const MagneticMindmap = () => {
       <div className="mb-4">
         <h2 className="text-xl font-semibold">Colloid</h2>
         <p className="text-gray-700">
-          A colloid is a mixture with small particles spread throughout. The particles are between 1 nanometer and 1 micrometer in size. Colloids look cloudy but don't settle. They also show the Tyndall effect (light scattering). Example: milk.
+          A colloid is a mixture with small particles spread throughout. The particles are between 1 nanometer and 1 micrometer in size. Colloids look cloudy but don&apos;t settle. They also show the Tyndall effect (light scattering). Example: milk.
         </p>
       </div>
       <div>
