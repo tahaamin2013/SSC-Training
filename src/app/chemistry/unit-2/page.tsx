@@ -71,7 +71,8 @@ const data = [
         links: [
           { href: "/chemistry/unit-2/quiz", text: "MCQS", icon: HelpCircle },
           { href: "/chemistry/unit-2/quiz-textbook", text: "MCQS TEXTBOOK", icon: HelpCircle },
-          { href: "/chemistry/unit-2/questions", text: "Questions", icon: FileText },
+          { href: "/chemistry/unit-2/questions", text: "Short Questions", icon: FileText },
+          { href: "/chemistry/unit-2/questions-answers", text: "Short Questions Answers", icon: FileText },
           { href: "/chemistry/unit-2/textbook-excersise-questions", text: "TextBook Excersise Questions", icon: HelpCircle },
           { href: "/chemistry/unit-2/brief-questions", text: "Brief Questions", icon: FileText },
           { href: "/chemistry/unit-2/detailed-questions", text: "Detailed Questions", icon: List },
