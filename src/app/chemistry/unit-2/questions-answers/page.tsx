@@ -31,6 +31,7 @@ const data = [
           <strong>Element:</strong> A pure thing made of one kind of atom. It can&apos;t break into simpler parts. (Example: Oxygen, O)
         </p>
         <p>
+          
           <strong>Compound:</strong> A mix of two or more different elements that join in fixed amounts. (Example: Water, H₂O)
         </p>
         <p>

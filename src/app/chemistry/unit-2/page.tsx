@@ -14,6 +14,10 @@ const data = [
             { href: "/chemistry/unit-2/state-of-matter/quiz", text: "MCQS", icon: HelpCircle },
             { href: "/chemistry/unit-2/state-of-matter/brief-questions", text: "BRIEF QUESTIONS", icon: FileText },
             { href: "/chemistry/unit-2/state-of-matter/detailed-questions", text: "DETAILED QUESTIONS", icon: List },
+            { href: "/chemistry/unit-2/matter-1", text: "Matter Test 1", icon: FileText },
+            { href: "/chemistry/unit-2/matter-2", text: "Matter Test 2", icon: FileText },
+            { href: "/chemistry/unit-2/matter-3", text: "Matter Test 3", icon: FileText },
+            { href: "/chemistry/unit-2/matter-4", text: "Matter Test 4", icon: FileText },
         ],
     },
     {
@@ -73,6 +77,7 @@ const data = [
           { href: "/chemistry/unit-2/quiz-textbook", text: "MCQS TEXTBOOK", icon: HelpCircle },
           { href: "/chemistry/unit-2/questions", text: "Short Questions", icon: FileText },
           { href: "/chemistry/unit-2/questions-answers", text: "Short Questions Answers", icon: FileText },
+      
           { href: "/chemistry/unit-2/textbook-excersise-questions", text: "TextBook Excersise Questions", icon: HelpCircle },
           { href: "/chemistry/unit-2/brief-questions", text: "Brief Questions", icon: FileText },
           { href: "/chemistry/unit-2/detailed-questions", text: "Detailed Questions", icon: List },

@@ -386,10 +386,22 @@ Helium atoms etc.
 *** Bose-Einstein Condensates (BEC)
 **** Occurs at extremely low temperatures
 **** Found in superfluids and superconductors materials
+left side
 ** Macroscopic Properties (visualized by the naked eye)
 *** Density
 *** Fluidity
 *** Compressibility
+**** is the ability of a substance to decrease in volume when pressure is applied.
+** **Changes in Particle Motion (Solid to Gas)**
+*** Solid  
+**** Particles tightly packed  
+**** Vibrate in place  
+*** Liquid  
+**** Gains heat energy  
+**** Particles move more freely  
+*** Gas  
+**** Particles move very fast  
+**** Spread apart in all directions  
 ** State Characteristics
 *** Gas
 **** Low density
@@ -411,6 +423,56 @@ Helium atoms etc.
 *** Chemical composition remains unchanged
 @endmindmap`}
         />
+
+        <PlantUMLDiagram code={`
+@startmindmap
+
+* Chemistry Connection to Matter
+** Matter
+*** Has Mass & Volume
+*** Made of Atoms
+** States of Matter
+*** Solid
+*** Liquid
+*** Gas
+*** Plasma
+** Composition of Matter
+*** Elements
+*** Compounds
+*** Mixtures
+** Changes in Matter
+*** Physical Change
+**** No new substance
+**** Examples: Melting, Freezing
+*** Chemical Change
+**** New substance forms
+**** Examples: Burning, Rusting
+** Role of Energy
+*** Exothermic (Releases Energy)
+*** Endothermic (Absorbs Energy)
+
+@endmindmap
+
+          `} />
+
+          <PlantUMLDiagram code={`
+            @startmindmap
+* What is Plasma?
+** Definition
+*** Special state of matter
+*** Similar to gas but distinct
+** Composition
+*** Free electrons
+*** Ions (atoms with lost or gained electrons)
+** Formation
+*** Occurs when gas is heated intensely
+*** Atoms lose electrons, creating charged particles
+** Natural Examples
+*** Lightning
+*** Auroras (Northern and Southern Lights)
+*** Sun and stars
+@endmindmap
+`} />
 
         <div className="container mx-auto p-8">
           <header className="mb-12 text-center">
