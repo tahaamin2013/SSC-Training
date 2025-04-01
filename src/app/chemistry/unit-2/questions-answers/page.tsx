@@ -27,7 +27,7 @@ const data = [
 <div className="p-6 max-w-xl mx-auto bg-white rounded-xl shadow-md space-y-4">
       <h1 className="text-xl font-bold text-gray-900">Simple Science Terms</h1>
       <div className="space-y-2">
-        <p>
+        <p> 
           <strong>Element:</strong> A pure thing made of one kind of atom. It can&apos;t break into simpler parts. (Example: Oxygen, O)
         </p>
         <p>
