@@ -130,7 +130,7 @@ export default function TestPage() {
         </div>
 
         <p className="text-sm text-gray-600 mt-6">
-          This test includes fresh questions while maintaining a focus on key concepts. Let me know if you'd like any changes! 😊
+          This test includes fresh questions while maintaining a focus on key concepts. Let me know if you&apos;d like any changes! 😊
         </p>
       </div>
     </div>

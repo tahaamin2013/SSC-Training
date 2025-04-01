@@ -105,7 +105,7 @@ const MatterQuestions = () => {
               <li>a) High temperatures</li>
               <li>b) Room temperature</li>
               <li>c) Extremely low temperatures</li>
-              <li>d) In the Earth's core</li>
+              <li>d) In the Earths core</li>
             </ul>
           </div>
 
@@ -137,7 +137,7 @@ const MatterQuestions = () => {
           <p>Describe the three main states of matter (solid, liquid, and gas) and their distinguishing properties.</p>
           <p>Explain how gas turns into plasma.</p>
           <p>Describe how the particles move in solid, liquid, and gas states.</p>
-          <p>What is meant by the term "compressibility," and which state of matter is the most compressible?</p>
+          <p>What is meant by the term compressibility, and which state of matter is the most compressible?</p>
           <p>How does the kinetic particle theory explain the change of states in oxygen when cooled?</p>
           <p>What are liquid crystals, and how do they differ from normal liquids and solids?</p>
           <p>How do Bose-Einstein Condensates exhibit quantum behavior?</p>
