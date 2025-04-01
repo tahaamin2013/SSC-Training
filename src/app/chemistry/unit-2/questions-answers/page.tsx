@@ -28,7 +28,7 @@ const data = [
       <h1 className="text-xl font-bold text-gray-900">Simple Science Terms</h1>
       <div className="space-y-2">
         <p>
-          <strong>Element:</strong> A pure thing made of one kind of atom. It can't break into simpler parts. (Example: Oxygen, O)
+          <strong>Element:</strong> A pure thing made of one kind of atom. It can&apos;t break into simpler parts. (Example: Oxygen, O)
         </p>
         <p>
           <strong>Compound:</strong> A mix of two or more different elements that join in fixed amounts. (Example: Water, H₂O)
