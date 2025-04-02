@@ -195,6 +195,8 @@ left side
 center footer Comparison of Solution, Colloids, and Suspension
 @endmindmap`}
         />
+
+        
        
       </section>
       <div className="p-8 bg-gradient-to-r from-purple-100 to-pink-100 rounded-lg shadow-xl">

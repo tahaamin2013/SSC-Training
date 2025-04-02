@@ -229,6 +229,7 @@ mindmapDiagram {
 ***** Digestion of food (breaks down into simpler substances)
 @endmindmap`}
                 />
+                
                 <PlantUMLDiagram
                     code={`
 @startmindmap

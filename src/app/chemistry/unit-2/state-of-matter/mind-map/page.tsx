@@ -473,7 +473,50 @@ left side
 *** Sun and stars
 @endmindmap
 `} />
+                <PlantUMLDiagram
+          code={`
+                        @startmindmap
+            <style>
+            mindmapDiagram {
+              node {
+                BackgroundColor lightGreen
+                }
+                :depth(1) {
+                  BackgroundColor lightBlue
+                  }
+    :depth(2) {
+      BackgroundColor pink
+    }
+    :depth(3) {
+      BackgroundColor lightyellow
+    }
+}
+</style>
 
+* Changes
+** Physical Changes
+*** What it is: Changes that don't make a new substance.
+*** Example: Ice melting
+**** Ice turns into water
+**** No new substance made
+*** Features
+**** Can go back to the original form
+**** No new substance
+**** Only change in shape or size
+left side
+** Chemical Changes
+*** What it is: Changes that make new substances.
+*** Example: Iron rusting
+**** Iron mixes with air
+**** Rust (new substance) is made
+*** Features
+**** Can’t go back to original form
+**** New substances are made
+**** Change in the substance itself
+@endmindmap
+
+            `}
+        />
         <div className="container mx-auto p-8">
           <header className="mb-12 text-center">
             <h1 className="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-600 to-pink-500 mb-4">

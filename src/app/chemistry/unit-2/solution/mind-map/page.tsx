@@ -225,7 +225,7 @@ const MagneticMindmap = () => {
         </p>
       </div>
     </div>
-        <PlantUMLDiagram
+    <PlantUMLDiagram
           code={`
 @startmindmap
 *[#lightblue] Solutions
@@ -288,6 +288,7 @@ left side
 ******[#white] Steel
 @endmindmap`}
         />
+
         <Image
           src="/solute-solvent-solution4 (1).png"
           alt="Solute Solvent Solution Image"
