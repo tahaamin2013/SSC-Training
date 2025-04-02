@@ -517,6 +517,46 @@ left side
 
             `}
         />
+
+<PlantUMLDiagram
+          code={`
+                        @startmindmap
+            <style>
+            mindmapDiagram {
+              node {
+                BackgroundColor lightGreen
+                }
+                :depth(1) {
+                  BackgroundColor lightBlue
+                  }
+    :depth(2) {
+      BackgroundColor pink
+    }
+    :depth(3) {
+      BackgroundColor lightyellow
+    }
+}
+</style>
+* Phase Transitions
+** Melting (Solid to Liquid)
+*** Example: Ice turning into Water
+*** Process: Solid absorbs heat, particles move freely, forming a liquid.
+** Freezing (Liquid to Solid)
+*** Example: Water turning into Ice
+*** Process: Liquid loses heat, particles slow down and form a solid.
+left side
+** Evaporation (Liquid to Gas)
+*** Example: Water turning into Steam
+*** Process: Liquid gains heat, molecules escape to form gas.
+** Condensation (Gas to Liquid)
+*** Example: Dew forming on Grass
+*** Process: Gas loses heat, particles slow down and form liquid.
+** Sublimation (Solid to Gas)
+*** Example: Dry Ice turning into CO2 Gas
+*** Process: Solid gains heat, particles directly form gas.
+@endmindmap
+            `}
+        />
         <div className="container mx-auto p-8">
           <header className="mb-12 text-center">
             <h1 className="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-600 to-pink-500 mb-4">
