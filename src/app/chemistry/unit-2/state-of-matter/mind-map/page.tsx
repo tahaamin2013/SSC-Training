@@ -557,6 +557,93 @@ left side
 @endmindmap
             `}
         />
+
+<PlantUMLDiagram
+          code={`
+                        @startmindmap
+            <style>
+            mindmapDiagram {
+              node {
+                BackgroundColor lightGreen
+                }
+                :depth(1) {
+                  BackgroundColor lightBlue
+                  }
+    :depth(2) {
+      BackgroundColor pink
+    }
+    :depth(3) {
+      BackgroundColor lightyellow
+    }
+}
+</style>
+* Plasma vs Regular Gas
+** Ionization
+*** Plasma: Ionized gas, contains free electrons and ions
+*** Gas: Mostly neutral atoms or molecules
+** Electrical Conductivity
+*** Plasma: Conducts electricity due to free-moving charged particles
+*** Gas: Poor electrical conductivity, as there are no free charged particles
+** Temperature
+*** Plasma: High temperature, often in thousands to millions of Kelvin
+*** Gas: Can exist at a wide range of temperatures, usually lower than plasma
+** Reaction to Magnetic Fields
+*** Plasma: Highly affected by magnetic fields (magnetic confinement)
+*** Gas: Does not respond to magnetic fields in a significant way
+** Particle Collisions
+*** Plasma: Frequent collisions of ions and electrons
+*** Gas: Collisions occur between neutral particles, less frequent than in plasma
+** State of Matter
+*** Plasma: Fourth state of matter (ionized state)
+*** Gas: Third state of matter (neutral molecules or atoms)
+** Energy
+*** Plasma: High energy, particles move with high velocity
+*** Gas: Lower energy, particles move at moderate velocities
+@endmindmap
+
+            `}
+        />
+
+        
+<PlantUMLDiagram
+          code={`
+                        @startmindmap
+            <style>
+            mindmapDiagram {
+              node {
+                BackgroundColor lightGreen
+                }
+                :depth(1) {
+                  BackgroundColor lightBlue
+                  }
+    :depth(2) {
+      BackgroundColor pink
+    }
+    :depth(3) {
+      BackgroundColor lightyellow
+    }
+}
+</style>
+* Superconductors, Superfluids, and Bose-Einstein Condensates
+** Superconductors
+*** Materials that conduct electricity with zero resistance below a critical temperature
+*** Cooper pairs (electron pairs) form and move without scattering
+*** Examples: Lead, YBCO (high-temperature superconductors)
+** Superfluids
+*** Liquids with zero viscosity, allowing them to flow without friction
+*** Occur at very low temperatures (e.g., helium-4 below 2.17 K)
+*** Example: Superfluid helium-4
+** Bose-Einstein Condensates (BEC)
+*** State of matter formed at extremely low temperatures near absolute zero
+*** Atoms behave like a single quantum entity, showing collective properties
+*** Example: Rubidium gas BEC in labs
+** Relationship Between Superconductors, Superfluids, and BEC
+*** All exhibit quantum behavior on a macroscopic scale
+*** BECs and Superfluids both involve particles acting coherently as a single entity
+*** Superconductors have Cooper pairs, similar to BECs' collective quantum states
+@endmindmap
+            `}
+        />
         <div className="container mx-auto p-8">
           <header className="mb-12 text-center">
             <h1 className="text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-600 to-pink-500 mb-4">
