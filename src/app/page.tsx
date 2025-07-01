@@ -16,6 +16,7 @@ const data: Section[] = [
   { id: "2", link: "/physics", title: "Physics", color: "#45B7D1" },
   
   { id: "3", link: "/chemistry", title: "Chemistry", color: "#4ECDC4" },
+  { id: "3", link: "/chemistry", title: "ACCA FA-1", color: "#4ECDC4" },
   { id: "3", link: "/principles-of-marketing", title: "Principles of Marketing", color: "#5F27CD" },
   {
     id: "1",

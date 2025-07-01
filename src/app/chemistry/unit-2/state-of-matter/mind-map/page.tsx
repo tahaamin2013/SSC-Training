@@ -558,52 +558,39 @@ left side
             `}
         />
 
-<PlantUMLDiagram
-          code={`
-                        @startmindmap
-            <style>
-            mindmapDiagram {
-              node {
-                BackgroundColor lightGreen
-                }
-                :depth(1) {
-                  BackgroundColor lightBlue
-                  }
-    :depth(2) {
-      BackgroundColor pink
-    }
-    :depth(3) {
-      BackgroundColor lightyellow
-    }
-}
-</style>
-* Plasma vs Regular Gas
-** Ionization
-*** Plasma: Ionized gas, contains free electrons and ions
-*** Gas: Mostly neutral atoms or molecules
-** Electrical Conductivity
-*** Plasma: Conducts electricity due to free-moving charged particles
-*** Gas: Poor electrical conductivity, as there are no free charged particles
-** Temperature
-*** Plasma: High temperature, often in thousands to millions of Kelvin
-*** Gas: Can exist at a wide range of temperatures, usually lower than plasma
-** Reaction to Magnetic Fields
-*** Plasma: Highly affected by magnetic fields (magnetic confinement)
-*** Gas: Does not respond to magnetic fields in a significant way
-** Particle Collisions
-*** Plasma: Frequent collisions of ions and electrons
-*** Gas: Collisions occur between neutral particles, less frequent than in plasma
-** State of Matter
-*** Plasma: Fourth state of matter (ionized state)
-*** Gas: Third state of matter (neutral molecules or atoms)
-** Energy
-*** Plasma: High energy, particles move with high velocity
-*** Gas: Lower energy, particles move at moderate velocities
-@endmindmap
-
-            `}
-        />
-
+<div className="min-h-screen bg-gray-100 flex items-center justify-center p-4">
+      <div className="w-full max-w-4xl bg-white shadow-lg rounded-lg p-6">
+        <h1 className="text-2xl font-bold text-center mb-4">Plasma vs Regular Gas</h1>
+        <div className="overflow-x-auto">
+          <table className="w-full border-collapse border border-gray-300">
+            <thead>
+              <tr className="bg-gray-200">
+                <th className="border border-gray-300 px-4 py-2 text-left">Feature</th>
+                <th className="border border-gray-300 px-4 py-2 text-left">Plasma</th>
+                <th className="border border-gray-300 px-4 py-2 text-left">Regular Gas</th>
+              </tr>
+            </thead>
+            <tbody>
+              {[
+                ["Ionization", "Ionized gas, contains free electrons and ions", "Mostly neutral atoms or molecules"],
+                ["Electrical Conductivity", "Conducts electricity due to free-moving charged particles", "Poor electrical conductivity, as there are no free charged particles"],
+                ["Temperature", "High temperature, often in thousands to millions of Kelvin", "Can exist at a wide range of temperatures, usually lower than plasma"],
+                ["Reaction to Magnetic Fields", "Highly affected by magnetic fields (magnetic confinement)", "Does not respond to magnetic fields significantly"],
+                ["Particle Collisions", "Frequent collisions of ions and electrons", "Collisions occur between neutral particles, less frequent than in plasma"],
+                ["State of Matter", "Fourth state of matter (ionized state)", "Third state of matter (neutral molecules or atoms)"],
+                ["Energy", "High energy, particles move with high velocity", "Lower energy, particles move at moderate velocities"],
+              ].map(([feature, plasma, gas], index) => (
+                <tr key={index} className="odd:bg-gray-50">
+                  <td className="border border-gray-300 px-4 py-2 font-medium">{feature}</td>
+                  <td className="border border-gray-300 px-4 py-2">{plasma}</td>
+                  <td className="border border-gray-300 px-4 py-2">{gas}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
         
 <PlantUMLDiagram
           code={`
