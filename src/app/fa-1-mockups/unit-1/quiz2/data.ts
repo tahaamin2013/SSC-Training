@@ -1,7 +1,6 @@
 export const quiz = {
   totalQuestions: 51,
   questions: [
-
     {
       id: 2,
       question: "Which of the following is an example of asset expenditure?",

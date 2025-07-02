@@ -13,8 +13,9 @@ type Section = {
 };
 
 const data: Section[] = [
-    { id: "1", link: "/fa-1-mockups/unit-1/quiz", unit: "1", title: "MOCK 1" },
-    { id: "1", link: "/fa-1-mockups/unit-1/quiz2", unit: "1", title: "MOCK 2" },
+    { id: "1", link: "/fa-1-mockups/chapter1", unit: "1", title: "Chapter 1 BUSINESS TRANSACTIONS" },
+    { id: "2", link: "/fa-1-mockups/unit-1/quiz", unit: "1", title: "MOCK 1" },
+    { id: "3", link: "/fa-1-mockups/unit-1/quiz2", unit: "1", title: "MOCK 2" },
 ];
 
 const UnitCard = ({ section, isRedirecting, onRedirect }: { section: Section; isRedirecting: boolean; onRedirect: () => void }) => {
@@ -81,7 +82,7 @@ const Page = () => {
         <div className="min-h-screen bg-gradient-to-br from-gray-900 to-gray-800 py-12 px-4 sm:px-6 lg:px-8">
             <div className="mx-auto max-w-7xl">
                 <h1 className="mb-12 text-center text-5xl font-extrabold leading-tight tracking-tight text-transparent text-white">
-                    Dive into the World of Physics
+                    Dive into the World of ACCA FA1
                 </h1>
                 <div
                     className="relative mb-16 flex justify-center"
