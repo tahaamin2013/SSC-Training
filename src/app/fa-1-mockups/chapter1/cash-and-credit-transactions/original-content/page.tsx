@@ -8,7 +8,7 @@ const page = () => {
         <p>
           Most business transactions for buying and selling goods or services are either cash transactions or credit transactions.
           With a cash transaction, the buyer pays for the item either upon exchange of goods/services or they pay in advance. For example, sales in a shop or supermarket are cash transactions, because the customer pays at the cash desk or check-out point.
-          With a credit transaction, the buyer doesn't pay for the item on receipt, but is allowed some time (a 'credit period') before having to make the payment.
+          With a credit transaction, the buyer doesn&apos;t pay for the item on receipt, but is allowed some time (a &apos;credit period&apos;) before having to make the payment.
         </p>
         <div className="bg-blue-50 border-l-4 border-blue-400 p-4">
           <h2 className="font-semibold mb-2">Example of a credit transaction</h2>
@@ -51,7 +51,7 @@ const page = () => {
           </p>
           <ol className="list-decimal ml-6 mt-2 space-y-2">
             <li>
-              What kind of transaction is this from the client's perspective?
+              What kind of transaction is this from the client&apos;s perspective?
               <ul className="list-none ml-4 mt-1">
                 <li>A The sale of goods by the hairdresser</li>
                 <li>B The sale of a service by the client</li>
@@ -60,7 +60,7 @@ const page = () => {
               </ul>
             </li>
             <li className="mt-2">
-              What kind of transaction is this from the hairdresser's point of view?
+              What kind of transaction is this from the hairdresser&apos;s point of view?
               <ul className="list-none ml-4 mt-1">
                 <li>A A cash sale</li>
                 <li>B A credit sale</li>
@@ -70,18 +70,18 @@ const page = () => {
             </li>
           </ol>
           <p className="mt-2 text-sm text-gray-600">
-            For a suggested answer, see the 'Answers' section at the end of the book.
+            For a suggested answer, see the &apos;Answers&apos; section at the end of the book.
           </p>
         </div>
         <p>
-          Every purchase from one party's perspective is a sale from the other perspective of the other party to the transaction. The purchaser makes payment and seller receives it in exchange for the goods or services supplied.
+          Every purchase from one party&apos;s perspective is a sale from the other perspective of the other party to the transaction. The purchaser makes payment and seller receives it in exchange for the goods or services supplied.
         </p>
         <h2 className="text-xl font-bold mt-6 mb-2">3.1 METHODS OF PAYMENT</h2>
         <p>
           You need to understand the different methods of receiving payment from customers, or making payments to a supplier. Four common methods of receiving and making payments used in many businesses are:
         </p>
         <ul className="list-disc ml-6 space-y-1">
-          <li>payments in 'cash', in other words, in notes and coins</li>
+          <li>payments in &apos;cash&apos;, in other words, in notes and coins</li>
           <li>payments by debit and credit cards and electronic payment methods</li>
           <li>payments by cheque</li>
           <li>automated receipts and payments through the business bank accounts. Examples are standing orders and direct debits.</li>

@@ -41,7 +41,7 @@ const page = () => {
           <li>
             Which of the following would be paid for by petty cash?
             <ul className="list-none mt-2 space-y-1">
-              <li>A Car repairs on the business owner's private vehicle</li>
+              <li>A Car repairs on the business owner&apos;s private vehicle</li>
               <li>B Packet of envelopes at local store</li>
               <li>C Paying a supplier for goods bought on credit</li>
               <li>D Wages and salaries</li>
@@ -58,7 +58,7 @@ const page = () => {
           </li>
         </ol>
         <p className="mt-6 italic">
-          For a suggested answer, see the 'Answers' section at the end of the book.
+          For a suggested answer, see the &apos;Answers&apos; section at the end of the book.
         </p>
       </div>
     </div>

@@ -27,7 +27,7 @@ export default function TimingOfTransactionsPage() {
           </li>
         </ol>
         <p className="mt-4 text-gray-500 italic">
-          For a suggested answer, see the 'Answers' section at the end of the book
+          For a suggested answer, see the Answers section at the end of the book
         </p>
       </div>
     </div>

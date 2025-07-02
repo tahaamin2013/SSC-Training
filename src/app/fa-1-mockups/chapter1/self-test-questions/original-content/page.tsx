@@ -107,7 +107,7 @@ export default function Page() {
                 ))}
             </div>
             <p className="mt-8 text-sm text-gray-600">
-                For suggested answers, see the 'Answers' section at the end of the book.
+                For suggested answers, see the Answers section at the end of the book.
             </p>
         </div>
     );
