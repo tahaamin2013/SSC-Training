@@ -13,9 +13,10 @@ type Section = {
 };
 
 const data: Section[] = [
-    { id: "1", link: "/fa-1-mockups/chapter1", unit: "1", title: "Chapter 1 BUSINESS TRANSACTIONS" },
-    { id: "2", link: "/fa-1-mockups/unit-1/quiz", unit: "1", title: "MOCK 1" },
-    { id: "3", link: "/fa-1-mockups/unit-1/quiz2", unit: "1", title: "MOCK 2" },
+    { id: "1", link: "/fa-1-mockups/chapter1", unit: "1", title: "✓ Chapter 1 BUSINESS TRANSACTIONS" },
+    { id: "2", link: "/fa-1-mockups/chapter-2", unit: "1", title: "Chapter 2 TYPES OF BUSINESS DOCUMENTATION" },
+    { id: "3", link: "/fa-1-mockups/unit-1/quiz", unit: "1", title: "MOCK 1" },
+    { id: "4", link: "/fa-1-mockups/unit-1/quiz2", unit: "1", title: "MOCK 2" },
 ];
 
 const UnitCard = ({ section, isRedirecting, onRedirect }: { section: Section; isRedirecting: boolean; onRedirect: () => void }) => {

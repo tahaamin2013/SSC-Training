@@ -9,22 +9,36 @@ const MagneticMindmap = () => {
           code={`
     @startmindmap
     * TERMINOLOGY
-    ** Sales
-    *** Exchange of goods or services for money
-    *** Includes commission and fees received (e.g., by accountants, lawyers)
-    ** Purchases
-    *** Goods/services obtained for resale or business use
-    ** Receipts
-    *** Money received from cash sales or credit customers
-    ** Payments
-    *** Money paid out in cash, cheque, or electronic means
-    ** Income
-    *** General term, includes sales, interest received, rent received, etc.
-    ** Expenses
-    *** Cash paid for rent, utilities, telephone, etc.
-    *** Excludes purchases for resale or assets
+    ** Income (A more general term than sales)
+    *** includes Revenue (Regular Sales)
+    **** Exchange of goods for money
+    **** Exchange of services for money
+    ***** Includes commission (e.g., by accountants, lawyers)
+    ***** Includes fees received (e.g., by accountants, lawyers)
+
+    *** Gains (Irregular)
+    **** interest received
+    **** rent received
+  
     ** Expenditure
-    *** Includes purchases, expenses, and other business spending
+    *** Purchases
+    **** Goods/services obtained for
+    ***** resale use
+    ***** business use
+    *** Expenses
+    **** Cash paid for rent, utilities, telephone, etc.
+    **** Excludes purchases for resale 
+    **** Excludes purchases for assets
+
+    ** Receipts
+    *** Money received from
+    **** cash sales
+    **** credit customers
+    ** Payments
+    *** Money paid out in
+    **** cash
+    **** cheque
+    **** electronic 
     ** Petty cash
     *** Small amounts of cash for minor expenses (e.g., refreshments, travel)
     *** Employee reimbursed after payment
@@ -32,7 +46,6 @@ const MagneticMindmap = () => {
     *** Accounting for employee costs
     *** Includes gross pay, bonuses, commissions, employer costs
     @endmindmap
-
             `}
         />
        
