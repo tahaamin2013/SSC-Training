@@ -6,7 +6,7 @@ const page = () => {
       <div className="max-w-2xl mx-auto p-6 bg-white rounded shadow">
         <h1 className="text-2xl font-bold mb-4">PAYROLL</h1>
         <p className="mb-4">
-          Many businesses have employees who are paid by the business for the work they do. Most businesses will have a set day on which employees should be paid, and it is the payroll department's responsibility to ensure that wages are paid on the correct due dates. Weekly paid employees (wage earners) will be paid at least once a week, normally on the same day each week. Commonly the pay day will be either Thursday or Friday if the working week is from Monday to Friday.
+          Many businesses have employees who are paid by the business for the work they do. Most businesses will have a set day on which employees should be paid, and it is the payroll departments responsibility to ensure that wages are paid on the correct due dates. Weekly paid employees (wage earners) will be paid at least once a week, normally on the same day each week. Commonly the pay day will be either Thursday or Friday if the working week is from Monday to Friday.
         </p>
         <p className="mb-4">
           Monthly paid employees (salary earners) will be paid once a month, and there will be a formula for determining the pay day. For example, this may be:
